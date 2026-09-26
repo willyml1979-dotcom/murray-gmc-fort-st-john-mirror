@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-09-26T15:28:10",
-  "vehicle_count": 180,
+  "generated_at": "2026-09-26T15:51:35",
+  "vehicle_count": 181,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -756,7 +756,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e20f284de0d9.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2025-GMC-Yukon-AT4_Ultimate-1GKS2VRL5SR305266/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2025-GMC-Yukon-AT4_Ultimate-1GKS2VRL5SR305266/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:25:34",
+      "last_verified": "2026-09-26T15:49:00",
       "odometer_km": 5302,
       "condition": "new"
     },
@@ -768,7 +768,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/aed54518fd1d.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Avenir-5GAEVCKS2TJ344095/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Avenir-5GAEVCKS2TJ344095/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:25:43",
+      "last_verified": "2026-09-26T15:49:09",
       "condition": "new"
     },
     {
@@ -779,7 +779,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7ab313146036.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Sport_Touring-5GAEVBKS5TJ369826/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Sport_Touring-5GAEVBKS5TJ369826/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:25:56",
+      "last_verified": "2026-09-26T15:49:20",
       "condition": "new"
     },
     {
@@ -790,7 +790,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7c9614e67b46.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Sport_Touring-5GAEVBKSXTJ372057/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Sport_Touring-5GAEVBKSXTJ372057/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:26:09",
+      "last_verified": "2026-09-26T15:49:32",
       "condition": "new"
     },
     {
@@ -801,7 +801,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/cd54ea8db2a1.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR40TD075083/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR40TD075083/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:26:21",
+      "last_verified": "2026-09-26T15:49:42",
       "condition": "new"
     },
     {
@@ -812,7 +812,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/de1caa909cc4.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR41TD111590/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR41TD111590/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:26:31",
+      "last_verified": "2026-09-26T15:49:51",
       "condition": "new"
     },
     {
@@ -823,7 +823,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/276edfee57d4.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR46TD111570/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR46TD111570/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:26:43",
+      "last_verified": "2026-09-26T15:50:04",
       "condition": "new"
     },
     {
@@ -834,7 +834,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/892cf28d03b0.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR43TD103133/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR43TD103133/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:26:54",
+      "last_verified": "2026-09-26T15:50:15",
       "condition": "new"
     },
     {
@@ -845,7 +845,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c6857e01c8eb.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR46TD102784/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR46TD102784/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:27:05",
+      "last_verified": "2026-09-26T15:50:25",
       "condition": "new"
     },
     {
@@ -856,7 +856,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0a6a0f920f7c.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR48TD103712/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR48TD103712/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:27:18",
+      "last_verified": "2026-09-26T15:50:37",
       "condition": "new"
     },
     {
@@ -867,7 +867,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/23693f9b8e81.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Avenir-KL47LCE25TB255523/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Avenir-KL47LCE25TB255523/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:27:30",
+      "last_verified": "2026-09-26T15:50:51",
       "condition": "new"
     },
     {
@@ -878,7 +878,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/65703d82dabc.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Preferred-KL47LAE21TB137764/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Preferred-KL47LAE21TB137764/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:27:39",
+      "last_verified": "2026-09-26T15:51:02",
       "condition": "new"
     },
     {
@@ -889,7 +889,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d973537ba822.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE24TB136971/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE24TB136971/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:27:50",
+      "last_verified": "2026-09-26T15:51:13",
       "condition": "new"
     },
     {
@@ -900,7 +900,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/3ed64d523903.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR45TS197918/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR45TS197918/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:28:01",
+      "last_verified": "2026-09-26T15:51:19",
       "condition": "new"
     },
     {
@@ -911,7 +911,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6d263a5d6bab.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR48TS160569/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR48TS160569/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:28:14",
+      "last_verified": "2026-09-26T15:51:29",
       "condition": "new"
     },
     {
@@ -1286,6 +1286,17 @@
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK0T1322260/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK0T1322260/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:34:32",
+      "condition": "new"
+    },
+    {
+      "name": "CanyonAT4",
+      "vin": "1GTP2DEK7T1312549",
+      "stock": "23077",
+      "color": "Coastal Dune",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/210f24fb8d3d.html",
+      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK7T1312549/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK7T1312549/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:48:50",
       "condition": "new"
     },
     {
