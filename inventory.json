@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-09-26T11:09:43",
-  "vehicle_count": 188,
+  "generated_at": "2026-09-26T15:28:10",
+  "vehicle_count": 180,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,7 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/62690116b05f.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2012-Ford-Focus-SEL-1FAHP3H21CL406478/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2012-Ford-Focus-SEL-1FAHP3H21CL406478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:13:56",
+      "last_verified": "2026-09-26T15:25:48",
       "odometer_km": 176705,
       "condition": "used"
     },
@@ -25,7 +25,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/be884a4a06ca.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2015-Volkswagen-Tiguan-Comfortline_%7C_sunroof_%7C_heated_seats_%7C_backup_camera_%7C-WVGJV7AX2FW591024/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2015-Volkswagen-Tiguan-Comfortline_%7C_sunroof_%7C_heated_seats_%7C_backup_camera_%7C-WVGJV7AX2FW591024/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:14:09",
+      "last_verified": "2026-09-26T15:26:01",
       "odometer_km": 136650,
       "condition": "used"
     },
@@ -37,7 +37,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/bf56a6309e5e.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2015-Volkswagen-Tiguan-Comfortline_|_sunroof_|_heated_seats_|_backup_camera_|-WVGJV7AX2FW591024/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2015-Volkswagen-Tiguan-Comfortline_|_sunroof_|_heated_seats_|_backup_camera_|-WVGJV7AX2FW591024/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:14:16",
+      "last_verified": "2026-09-26T15:26:10",
       "odometer_km": 136650,
       "condition": "used"
     },
@@ -49,7 +49,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/4d517c6d4c06.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Silverado_3500HD-High_Country_%7C_DIESEL_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-1GC4K1EY0JF196388/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Silverado_3500HD-High_Country_%7C_DIESEL_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-1GC4K1EY0JF196388/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:14:29",
+      "last_verified": "2026-09-26T15:26:18",
       "odometer_km": 120001,
       "condition": "used"
     },
@@ -61,7 +61,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/0a914e30733e.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Silverado_3500HD-High_Country_|_DIESEL_|_heated_and_cooled_seats_|_heated_steering_wheel_|-1GC4K1EY0JF196388/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Silverado_3500HD-High_Country_|_DIESEL_|_heated_and_cooled_seats_|_heated_steering_wheel_|-1GC4K1EY0JF196388/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:14:39",
+      "last_verified": "2026-09-26T15:26:28",
       "odometer_km": 120001,
       "condition": "used"
     },
@@ -73,7 +73,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/3f65c9304575.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Trax-LT_%7C_remote_starter_%7C_sunroof_%7C_backup_camera_%7C-3GNCJPSB7JL290802/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Trax-LT_%7C_remote_starter_%7C_sunroof_%7C_backup_camera_%7C-3GNCJPSB7JL290802/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:14:48",
+      "last_verified": "2026-09-26T15:26:39",
       "odometer_km": 134482,
       "condition": "used"
     },
@@ -85,7 +85,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/e0f7eee7c1ea.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Trax-LT_|_remote_starter_|_sunroof_|_backup_camera_|-3GNCJPSB7JL290802/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2018-Chevrolet-Trax-LT_|_remote_starter_|_sunroof_|_backup_camera_|-3GNCJPSB7JL290802/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:14:58",
+      "last_verified": "2026-09-26T15:26:48",
       "odometer_km": 134482,
       "condition": "used"
     },
@@ -97,7 +97,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/4a255155c4fb.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2019-Chevrolet-Silverado_1500-Custom_Trail_Boss_%7C_remote_starter_%7C_backup_camera_%7C_tow_package_%7C_2_Inch_Factory_Lift_%7C-1GCPYCEF7KZ325295/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Chevrolet-Silverado_1500-Custom_Trail_Boss_%7C_remote_starter_%7C_backup_camera_%7C_tow_package_%7C_2_Inch_Factory_Lift_%7C-1GCPYCEF7KZ325295/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:04",
+      "last_verified": "2026-09-26T15:26:57",
       "odometer_km": 138715,
       "condition": "used"
     },
@@ -109,7 +109,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/3432e29bb761.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2019-Chevrolet-Silverado_1500-Custom_Trail_Boss_|_remote_starter_|_backup_camera_|_tow_package_|_2_Inch_Factory_Lift_|-1GCPYCEF7KZ325295/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Chevrolet-Silverado_1500-Custom_Trail_Boss_|_remote_starter_|_backup_camera_|_tow_package_|_2_Inch_Factory_Lift_|-1GCPYCEF7KZ325295/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:12",
+      "last_verified": "2026-09-26T15:27:04",
       "odometer_km": 138715,
       "condition": "used"
     },
@@ -121,7 +121,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/01bf8f073288.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-SEL_%7C_heated_seats_%7C_bluetooth_%7C-2FMPK4J96KBB29547/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-SEL_%7C_heated_seats_%7C_bluetooth_%7C-2FMPK4J96KBB29547/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:22",
+      "last_verified": "2026-09-26T15:27:16",
       "odometer_km": 117418,
       "condition": "used"
     },
@@ -133,55 +133,31 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a335d9c3d5af.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-SEL_|_heated_seats_|_bluetooth_|-2FMPK4J96KBB29547/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-SEL_|_heated_seats_|_bluetooth_|-2FMPK4J96KBB29547/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:29",
+      "last_verified": "2026-09-26T15:27:26",
       "odometer_km": 117418,
       "condition": "used"
     },
     {
-      "name": "Silverado 3500HDHigh Country | DIESEL | sunroof | heated seats | heated steering wheel | bluetooth |",
-      "vin": "1GC4YVEY5LF280490",
-      "stock": "22947A",
-      "color": "Silver Ice Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/244eca9750e6.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2020-Chevrolet-Silverado_3500HD-High_Country_%7C_DIESEL_%7C_sunroof_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C-1GC4YVEY5LF280490/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2020-Chevrolet-Silverado_3500HD-High_Country_%7C_DIESEL_%7C_sunroof_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C-1GC4YVEY5LF280490/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:37",
-      "odometer_km": 111980,
+      "name": "Sierra 1500Denali",
+      "vin": "1GTU9FEL9KZ254415",
+      "stock": "Y1266B",
+      "color": "Onyx Black",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c378d3b0f6fe.html",
+      "source_url": "https://www.murraygmc.com/inventory/Used-2019-GMC-Sierra_1500-Denali-1GTU9FEL9KZ254415/",
+      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-GMC-Sierra_1500-Denali-1GTU9FEL9KZ254415/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:25:07",
+      "odometer_km": 175874,
       "condition": "used"
     },
     {
-      "name": "Silverado 3500HDHigh Country | DIESEL | sunroof | heated seats | heated steering wheel | bluetooth |",
-      "vin": "1GC4YVEY5LF280490",
-      "stock": "22947A",
-      "color": "Silver Ice Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/5a851be6e8c1.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2020-Chevrolet-Silverado_3500HD-High_Country_|_DIESEL_|_sunroof_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|-1GC4YVEY5LF280490/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2020-Chevrolet-Silverado_3500HD-High_Country_|_DIESEL_|_sunroof_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|-1GC4YVEY5LF280490/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:45",
-      "odometer_km": 111980,
-      "condition": "used"
-    },
-    {
-      "name": "TacomaSR5 | heated seats | bluetooth | backup camera |",
+      "name": "TacomaBase",
       "vin": "5TFDZ5BN7MX062652",
       "stock": "Y1298A",
       "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6fc416872f7b.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-SR5_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-5TFDZ5BN7MX062652/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-SR5_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-5TFDZ5BN7MX062652/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:15:52",
-      "odometer_km": 106942,
-      "condition": "used"
-    },
-    {
-      "name": "TacomaSR5 | heated seats | bluetooth | backup camera |",
-      "vin": "5TFDZ5BN7MX062652",
-      "stock": "Y1298A",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/828e09b940b9.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-SR5_|_heated_seats_|_bluetooth_|_backup_camera_|-5TFDZ5BN7MX062652/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-SR5_|_heated_seats_|_bluetooth_|_backup_camera_|-5TFDZ5BN7MX062652/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:16:00",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f57418e4503c.html",
+      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-Base-5TFDZ5BN7MX062652/",
+      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-Base-5TFDZ5BN7MX062652/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:25:18",
       "odometer_km": 106942,
       "condition": "used"
     },
@@ -193,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/b635e422970a.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2022-Chevrolet-Silverado_1500-Custom_Trail_Boss_%7C_2_Inch_Factory_Lift_%7C_bluetooth_%7C_Safety_Package_%7C_remote_starter_%7C-3GCPDCED8NG657146/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Chevrolet-Silverado_1500-Custom_Trail_Boss_%7C_2_Inch_Factory_Lift_%7C_bluetooth_%7C_Safety_Package_%7C_remote_starter_%7C-3GCPDCED8NG657146/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:16:08",
+      "last_verified": "2026-09-26T15:27:37",
       "odometer_km": 146257,
       "condition": "used"
     },
@@ -205,7 +181,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a18cadd0bd70.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2022-Chevrolet-Silverado_1500-Custom_Trail_Boss_|_2_Inch_Factory_Lift_|_bluetooth_|_Safety_Package_|_remote_starter_|-3GCPDCED8NG657146/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Chevrolet-Silverado_1500-Custom_Trail_Boss_|_2_Inch_Factory_Lift_|_bluetooth_|_Safety_Package_|_remote_starter_|-3GCPDCED8NG657146/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:16:15",
+      "last_verified": "2026-09-26T15:27:46",
       "odometer_km": 146257,
       "condition": "used"
     },
@@ -217,7 +193,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/35dbd574b01a.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2022-Ford-F--150-LARIAT_%7C_heated_and_cooled_seats_%7C_FX4_Off--Road_%7C_Max_Trailer_Package_%7C_NEW_Tires_%7C-1FTFW1E84NFB88927/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Ford-F--150-LARIAT_%7C_heated_and_cooled_seats_%7C_FX4_Off--Road_%7C_Max_Trailer_Package_%7C_NEW_Tires_%7C-1FTFW1E84NFB88927/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:16:22",
+      "last_verified": "2026-09-26T15:27:56",
       "odometer_km": 120944,
       "condition": "used"
     },
@@ -229,7 +205,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/1638953be635.html",
       "source_url": "https://www.murraygmc.com/inventory/Used-2022-Ford-F--150-LARIAT_|_heated_and_cooled_seats_|_FX4_Off--Road_|_Max_Trailer_Package_|_NEW_Tires_|-1FTFW1E84NFB88927/",
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Ford-F--150-LARIAT_|_heated_and_cooled_seats_|_FX4_Off--Road_|_Max_Trailer_Package_|_NEW_Tires_|-1FTFW1E84NFB88927/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:16:31",
+      "last_verified": "2026-09-26T15:28:03",
       "odometer_km": 120944,
       "condition": "used"
     },
@@ -450,27 +426,14 @@
       "condition": "used"
     },
     {
-      "name": "ColoradoZR2 | heated seats | bluetooth | Off-Road Package |",
-      "vin": "1GCPTFEK3R1125388",
-      "stock": "22739C",
-      "color": "Sterling Gray Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/36b8418cd74c.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Colorado-ZR2_%7C_heated_seats_%7C_bluetooth_%7C_Off--Road_Package_%7C-1GCPTFEK3R1125388/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Colorado-ZR2_%7C_heated_seats_%7C_bluetooth_%7C_Off--Road_Package_%7C-1GCPTFEK3R1125388/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:30",
-      "odometer_km": 45673,
-      "condition": "used"
-    },
-    {
-      "name": "ColoradoZR2 | heated seats | bluetooth | Off-Road Package |",
-      "vin": "1GCPTFEK3R1125388",
-      "stock": "22739C",
-      "color": "Sterling Gray Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c80706451f79.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Colorado-ZR2_|_heated_seats_|_bluetooth_|_Off--Road_Package_|-1GCPTFEK3R1125388/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Colorado-ZR2_|_heated_seats_|_bluetooth_|_Off--Road_Package_|-1GCPTFEK3R1125388/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:19:39",
-      "odometer_km": 45673,
+      "name": "FrontierPRO-4X",
+      "vin": "1N6ED1EK9PN654046",
+      "stock": "22702B",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/d9d1add9e88a.html",
+      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Frontier-PRO--4X-1N6ED1EK9PN654046/",
+      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Frontier-PRO--4X-1N6ED1EK9PN654046/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:25:27",
+      "odometer_km": 71300,
       "condition": "used"
     },
     {
@@ -594,51 +557,15 @@
       "condition": "used"
     },
     {
-      "name": "Sierra 1500AT4 | DIESEL | heated and cooled seats | heated steering wheel |",
-      "vin": "3GTUUEE82RG292552",
-      "stock": "22702A",
-      "color": "Onyx Black",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/9345acbdeaa7.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-AT4_%7C_DIESEL_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-3GTUUEE82RG292552/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-AT4_%7C_DIESEL_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-3GTUUEE82RG292552/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:21:23",
-      "odometer_km": 64006,
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500AT4 | DIESEL | heated and cooled seats | heated steering wheel |",
-      "vin": "3GTUUEE82RG292552",
-      "stock": "22702A",
-      "color": "Onyx Black",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6aafed16e5d6.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-AT4_|_DIESEL_|_heated_and_cooled_seats_|_heated_steering_wheel_|-3GTUUEE82RG292552/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-AT4_|_DIESEL_|_heated_and_cooled_seats_|_heated_steering_wheel_|-3GTUUEE82RG292552/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:21:30",
-      "odometer_km": 64006,
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 3500HDSLE | remote starter | bluetooth |",
-      "vin": "1GT49TE76RF348331",
-      "stock": "Y1295A",
+      "name": "Sierra 3500HDSLE",
+      "vin": "1GT49TE75RF188751",
+      "stock": "22947B",
       "color": "Sterling Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/83f6c41af92e.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_%7C_remote_starter_%7C_bluetooth_%7C-1GT49TE76RF348331/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_%7C_remote_starter_%7C_bluetooth_%7C-1GT49TE76RF348331/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:21:42",
-      "odometer_km": 99091,
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 3500HDSLE | remote starter | bluetooth |",
-      "vin": "1GT49TE76RF348331",
-      "stock": "Y1295A",
-      "color": "Sterling Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/2e15b40efc0f.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_|_remote_starter_|_bluetooth_|-1GT49TE76RF348331/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_|_remote_starter_|_bluetooth_|-1GT49TE76RF348331/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:21:50",
-      "odometer_km": 99091,
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/4e070d283081.html",
+      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE-1GT49TE75RF188751/",
+      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE-1GT49TE75RF188751/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:25:35",
+      "odometer_km": 49637,
       "condition": "used"
     },
     {
@@ -663,30 +590,6 @@
       "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Terrain-SLE_|_heated_seats_|_remote_starter_|_bluetooth_|-3GKALTEG6RL337411/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:22:08",
       "odometer_km": 63894,
-      "condition": "used"
-    },
-    {
-      "name": "WagoneerSeries II Carbide | sunroof | heated and cooled seats | heated steering wheel | Third Row Seating |",
-      "vin": "1C4SJVBP5RS113019",
-      "stock": "Y1266A",
-      "color": "Bright White",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/95f245a4bb57.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Jeep-Wagoneer-Series_II_Carbide_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_Third_Row_Seating_%7C-1C4SJVBP5RS113019/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Jeep-Wagoneer-Series_II_Carbide_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_Third_Row_Seating_%7C-1C4SJVBP5RS113019/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:22:15",
-      "odometer_km": 113415,
-      "condition": "used"
-    },
-    {
-      "name": "WagoneerSeries II Carbide | sunroof | heated and cooled seats | heated steering wheel | Third Row Seating |",
-      "vin": "1C4SJVBP5RS113019",
-      "stock": "Y1266A",
-      "color": "Bright White",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/d633d6c71776.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Jeep-Wagoneer-Series_II_Carbide_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|_Third_Row_Seating_|-1C4SJVBP5RS113019/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Jeep-Wagoneer-Series_II_Carbide_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|_Third_Row_Seating_|-1C4SJVBP5RS113019/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:22:22",
-      "odometer_km": 113415,
       "condition": "used"
     },
     {
