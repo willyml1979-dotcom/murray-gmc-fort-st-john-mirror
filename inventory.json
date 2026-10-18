@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-10-18T16:06:38",
-  "vehicle_count": 183,
+  "generated_at": "2026-10-18T16:24:34",
+  "vehicle_count": 186,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1335,6 +1335,19 @@
     },
     {
       "name": "Silverado 1500RST",
+      "vin": "3GCUKEEL3TG515795",
+      "stock": "23144",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/42468a921c7a.html",
+      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL3TG515795/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL3TG515795/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T16:22:09",
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500RST",
       "vin": "3GCUKEEL4TG523792",
       "stock": "23125",
       "color": "Black",
@@ -1407,6 +1420,19 @@
       "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY3TF373441/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY3TF373441/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T10:29:27",
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 3500HDLTZ",
+      "vin": "1GC4KUEY4TF420458",
+      "stock": "7OD5605",
+      "color": "Cypress Grey",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/adf62b5236e2.html",
+      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY4TF420458/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY4TF420458/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T16:22:18",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1653,7 +1679,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/896bffc38fa0.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG213698/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG213698/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:35:50",
+      "last_verified": "2026-10-18T16:22:35",
       "odometer_km": 3733,
       "condition": "new",
       "city": "Fort St. John",
@@ -1667,7 +1693,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/52a880cd7a43.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG424545/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG424545/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:36:04",
+      "last_verified": "2026-10-18T16:22:44",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1680,7 +1706,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/52687f3bf57e.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHEL1TZ420888/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHEL1TZ420888/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:36:10",
+      "last_verified": "2026-10-18T16:22:50",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1693,7 +1719,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6c2a9972f47c.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCE80TZ489926/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCE80TZ489926/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:36:25",
+      "last_verified": "2026-10-18T16:22:59",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1706,7 +1732,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0599fc493fc0.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED0TZ487154/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED0TZ487154/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:36:37",
+      "last_verified": "2026-10-18T16:23:07",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1719,7 +1745,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/9db473477ec2.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED2TZ487057/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED2TZ487057/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:36:50",
+      "last_verified": "2026-10-18T16:23:13",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1732,7 +1758,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/87b63cf6bc62.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ485009/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ485009/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:37:04",
+      "last_verified": "2026-10-18T16:23:22",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1745,7 +1771,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/390fcb97b251.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ496091/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ496091/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:37:21",
+      "last_verified": "2026-10-18T16:23:30",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1758,7 +1784,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/95048984b02d.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ481664/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ481664/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:37:33",
+      "last_verified": "2026-10-18T16:23:38",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1766,12 +1792,12 @@
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED9TZ496290",
-      "stock": "7OD5573",
+      "stock": "23112",
       "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c1674f53da95.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED9TZ496290/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED9TZ496290/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:38:16",
+      "last_verified": "2026-10-18T16:23:46",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1784,7 +1810,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/767d4e5fdc80.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ493804/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ493804/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:38:29",
+      "last_verified": "2026-10-18T16:23:56",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1797,7 +1823,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/83d2e36679de.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ496024/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ496024/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:38:41",
+      "last_verified": "2026-10-18T16:24:03",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1810,7 +1836,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/66aff8e24e32.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG463597/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG463597/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:39:14",
+      "last_verified": "2026-10-18T16:24:11",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1818,12 +1844,12 @@
     {
       "name": "Sierra 1500Elevation",
       "vin": "3GTUUCED3TG521118",
-      "stock": "7OD5583",
+      "stock": "23147",
       "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/990280559ab0.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED3TG521118/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED3TG521118/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:39:26",
+      "last_verified": "2026-10-18T16:24:19",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -1831,12 +1857,12 @@
     {
       "name": "Sierra 1500Elevation",
       "vin": "3GTUUCED7TG525608",
-      "stock": "7OD5587",
+      "stock": "23153",
       "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c4fbc5a1fcc3.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED7TG525608/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED7TG525608/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:39:37",
+      "last_verified": "2026-10-18T16:24:29",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2071,6 +2097,19 @@
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY1TF150613/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY1TF150613/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:43:04",
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 3500HDDenali",
+      "vin": "1GT4UWEY3TF392478",
+      "stock": "23137",
+      "color": "Onyx Black",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/389440630b32.html",
+      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF392478/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF392478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T16:22:27",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
