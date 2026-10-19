@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-10-19T14:36:17",
-  "vehicle_count": 184,
+  "generated_at": "2026-10-19T15:01:53",
+  "vehicle_count": 186,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -2051,6 +2051,19 @@
     },
     {
       "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY7TF392378",
+      "stock": "23116",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a511f427d8be.html",
+      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF392378/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF392378/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T14:58:42",
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY7TF393417",
       "stock": "23124",
       "color": "Sterling Metallic",
@@ -2065,12 +2078,12 @@
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY7TF393434",
-      "stock": "7OD5581",
+      "stock": "23142",
       "color": "Titanium Rush Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4851c8a717d5.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF393434/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF393434/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:42:52",
+      "last_verified": "2026-10-19T14:59:10",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2083,7 +2096,20 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d38746a630a6.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY1TF150613/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY1TF150613/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:43:04",
+      "last_verified": "2026-10-19T14:59:22",
+      "condition": "new",
+      "city": "Fort St. John",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 3500HDDenali",
+      "vin": "1GT4UWEY3TF392478",
+      "stock": "23137",
+      "color": "Onyx Black",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/389440630b32.html",
+      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF392478/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF392478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T14:58:57",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2096,7 +2122,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0b41368b3927.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY5TF393146/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY5TF393146/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:43:29",
+      "last_verified": "2026-10-19T14:59:35",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2109,7 +2135,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/8bf379cc98d8.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF382495/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF382495/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:43:42",
+      "last_verified": "2026-10-19T14:59:46",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2122,7 +2148,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/cbb51c93b216.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF392993/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF392993/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:43:55",
+      "last_verified": "2026-10-19T14:59:58",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2135,7 +2161,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/52fcb483c3e2.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY9TF220388/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY9TF220388/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:44:11",
+      "last_verified": "2026-10-19T15:00:07",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2174,7 +2200,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/43a8983602a0.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG9VL192681/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG9VL192681/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:44:49",
+      "last_verified": "2026-10-19T15:00:18",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2208,12 +2234,12 @@
     {
       "name": "AcadiaAT4",
       "vin": "1GKEMPKS4VJ153021",
-      "stock": "7OD5585",
+      "stock": "23148",
       "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ff106fe18f64.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-AT4-1GKEMPKS4VJ153021/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-AT4-1GKEMPKS4VJ153021/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:45:36",
+      "last_verified": "2026-10-19T15:00:25",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2226,7 +2252,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ff50ab9ab0b7.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-Denali-1GKEMRKS7VJ148911/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-Denali-1GKEMRKS7VJ148911/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:45:50",
+      "last_verified": "2026-10-19T15:00:33",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2291,7 +2317,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ae2c4933ce4d.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG6VL172368/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG6VL172368/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:46:24",
+      "last_verified": "2026-10-19T15:00:45",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2304,7 +2330,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7035cefa6659.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL171349/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL171349/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:46:37",
+      "last_verified": "2026-10-19T15:00:58",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2325,12 +2351,12 @@
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEGXVL169862",
-      "stock": "7OD5582",
+      "stock": "23146",
       "color": "Rapids Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/45deb9642236.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL169862/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL169862/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:46:49",
+      "last_verified": "2026-10-19T15:01:05",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2343,7 +2369,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7012bfb20f90.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL170896/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL170896/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:46:59",
+      "last_verified": "2026-10-19T15:01:21",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2382,7 +2408,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/886f6f73357c.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG2VL156953/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG2VL156953/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:47:07",
+      "last_verified": "2026-10-19T15:01:32",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
@@ -2395,7 +2421,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/9c1a4a2ec9d9.html",
       "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG2VL171730/",
       "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG2VL171730/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:47:18",
+      "last_verified": "2026-10-19T15:01:46",
       "condition": "new",
       "city": "Fort St. John",
       "province": "BC"
