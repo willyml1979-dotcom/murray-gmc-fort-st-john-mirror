@@ -1,2295 +1,1017 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-10-23T00:55:00",
-  "vehicle_count": 171,
+  "generated_at": "2026-10-25T16:14:31",
+  "vehicle_count": 168,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "200Limited | LOW KMS | heated seats |",
       "vin": "1C3CCCAB0FN586205",
-      "stock": "Y1306A",
-      "color": "Lunar White Tri-Coat Pearl",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/14b6743b83e1.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2015-Chrysler-200-Limited_%7C_LOW_KMS_%7C_heated_seats_%7C-1C3CCCAB0FN586205/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2015-Chrysler-200-Limited_%7C_LOW_KMS_%7C_heated_seats_%7C-1C3CCCAB0FN586205/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:47:09",
-      "odometer_km": 17311,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "200Limited | LOW KMS | heated seats |",
       "vin": "1C3CCCAB0FN586205",
-      "stock": "Y1306A",
-      "color": "Lunar White Tri-Coat Pearl",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f8d46206b18f.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2015-Chrysler-200-Limited_|_LOW_KMS_|_heated_seats_|-1C3CCCAB0FN586205/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2015-Chrysler-200-Limited_|_LOW_KMS_|_heated_seats_|-1C3CCCAB0FN586205/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:47:16",
-      "odometer_km": 17311,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1500SLT | LOW KMS |",
       "vin": "3C6RR7KT6HG769470",
-      "stock": "Y1226A",
-      "color": "Brilliant Black Crystal Pearl",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/79187682d8e6.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2017-Ram-1500-SLT_%7C_LOW_KMS_%7C-3C6RR7KT6HG769470/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2017-Ram-1500-SLT_%7C_LOW_KMS_%7C-3C6RR7KT6HG769470/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:10:38",
-      "odometer_km": 103210,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1500SLT | LOW KMS |",
       "vin": "3C6RR7KT6HG769470",
-      "stock": "Y1226A",
-      "color": "Brilliant Black Crystal Pearl",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/9a4fa110f384.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2017-Ram-1500-SLT_|_LOW_KMS_|-3C6RR7KT6HG769470/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2017-Ram-1500-SLT_|_LOW_KMS_|-3C6RR7KT6HG769470/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:10:48",
-      "odometer_km": 103210,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "EdgeTitanium | sunroof | heated and cooled seats | heated steering wheel |",
       "vin": "2FMPK4K91KBB82526",
-      "stock": "Y1304A",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/8f6ec9adfcb3.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-Titanium_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-2FMPK4K91KBB82526/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-Titanium_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-2FMPK4K91KBB82526/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:08:53",
-      "odometer_km": 79080,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "EdgeTitanium | sunroof | heated and cooled seats | heated steering wheel |",
       "vin": "2FMPK4K91KBB82526",
-      "stock": "Y1304A",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a53322f5e760.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-Titanium_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|-2FMPK4K91KBB82526/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Ford-Edge-Titanium_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|-2FMPK4K91KBB82526/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:09:01",
-      "odometer_km": 79080,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Rio 5-doorLX+ | NEW Tires | heated seats | bluetooth | backup camera |",
       "vin": "3KPA25ABXKE187205",
-      "stock": "23102A",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/1a743cc3a94e.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2019-Kia-Rio_5--door-LX%2B_%7C_NEW_Tires_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-3KPA25ABXKE187205/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Kia-Rio_5--door-LX%2B_%7C_NEW_Tires_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-3KPA25ABXKE187205/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:07:27",
-      "odometer_km": 110104,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Rio 5-doorLX+ | NEW Tires | heated seats | bluetooth | backup camera |",
       "vin": "3KPA25ABXKE187205",
-      "stock": "23102A",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f18dacba9271.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2019-Kia-Rio_5--door-LX%2B_|_NEW_Tires_|_heated_seats_|_bluetooth_|_backup_camera_|-3KPA25ABXKE187205/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Kia-Rio_5--door-LX%2B_|_NEW_Tires_|_heated_seats_|_bluetooth_|_backup_camera_|-3KPA25ABXKE187205/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:07:35",
-      "odometer_km": 110104,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "RogueSV | heated seats | bluetooth | backup camera |",
       "vin": "5N1AT2MV2KC738831",
-      "stock": "23155A",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/882d9e25f102.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2019-Nissan-Rogue-SV_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-5N1AT2MV2KC738831/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Nissan-Rogue-SV_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-5N1AT2MV2KC738831/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:11:01",
-      "odometer_km": 96637,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "RogueSV | heated seats | bluetooth | backup camera |",
       "vin": "5N1AT2MV2KC738831",
-      "stock": "23155A",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/0b0bdfb9a222.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2019-Nissan-Rogue-SV_|_heated_seats_|_bluetooth_|_backup_camera_|-5N1AT2MV2KC738831/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2019-Nissan-Rogue-SV_|_heated_seats_|_bluetooth_|_backup_camera_|-5N1AT2MV2KC738831/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:48:21",
-      "odometer_km": 96637,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "F-150XLT | bluetooth | backup camera | XTR Package |",
       "vin": "1FTEW1EP7MFB83349",
-      "stock": "22873B",
-      "color": "Black Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/629dfae12ed2.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Ford-F--150-XLT_%7C_bluetooth_%7C_backup_camera_%7C_XTR_Package_%7C-1FTEW1EP7MFB83349/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Ford-F--150-XLT_%7C_bluetooth_%7C_backup_camera_%7C_XTR_Package_%7C-1FTEW1EP7MFB83349/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:48:32",
-      "odometer_km": 98509,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "F-150XLT | bluetooth | backup camera | XTR Package |",
       "vin": "1FTEW1EP7MFB83349",
-      "stock": "22873B",
-      "color": "Black Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/812f39057687.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Ford-F--150-XLT_|_bluetooth_|_backup_camera_|_XTR_Package_|-1FTEW1EP7MFB83349/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Ford-F--150-XLT_|_bluetooth_|_backup_camera_|_XTR_Package_|-1FTEW1EP7MFB83349/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:48:41",
-      "odometer_km": 98509,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "TacomaBase SR5 | heated seats | bluetooth | backup camera | New Tires |",
       "vin": "5TFDZ5BN7MX062652",
-      "stock": "Y1298A",
-      "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c36ef87d0e37.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-Base_SR5_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C_New_Tires_%7C-5TFDZ5BN7MX062652/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-Base_SR5_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C_New_Tires_%7C-5TFDZ5BN7MX062652/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:09:13",
-      "odometer_km": 106944,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "TacomaBase SR5 | heated seats | bluetooth | backup camera | New Tires |",
       "vin": "5TFDZ5BN7MX062652",
-      "stock": "Y1298A",
-      "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/7cc0f09cb0ed.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-Base_SR5_|_heated_seats_|_bluetooth_|_backup_camera_|_New_Tires_|-5TFDZ5BN7MX062652/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2021-Toyota-Tacoma-Base_SR5_|_heated_seats_|_bluetooth_|_backup_camera_|_New_Tires_|-5TFDZ5BN7MX062652/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:09:20",
-      "odometer_km": 106944,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
-    },
-    {
-      "name": "Yukon XLDenali | DIESEL | ADVANCED TECHNOLOGY PACKAGE | heated and cooled seats | heated steering wheel |",
-      "vin": "1GKS2JKT2NR111365",
-      "stock": "23163A",
-      "color": "White Frost",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/43a4dcc71d02.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-GMC-Yukon_XL-Denali_%7C_DIESEL_%7C_ADVANCED_TECHNOLOGY_PACKAGE_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-1GKS2JKT2NR111365/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-GMC-Yukon_XL-Denali_%7C_DIESEL_%7C_ADVANCED_TECHNOLOGY_PACKAGE_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-1GKS2JKT2NR111365/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:48:52",
-      "odometer_km": 53000,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
-    },
-    {
-      "name": "Yukon XLDenali | DIESEL | ADVANCED TECHNOLOGY PACKAGE | heated and cooled seats | heated steering wheel |",
-      "vin": "1GKS2JKT2NR111365",
-      "stock": "23163A",
-      "color": "White Frost",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/cf92e7adf87b.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-GMC-Yukon_XL-Denali_|_DIESEL_|_ADVANCED_TECHNOLOGY_PACKAGE_|_heated_and_cooled_seats_|_heated_steering_wheel_|-1GKS2JKT2NR111365/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-GMC-Yukon_XL-Denali_|_DIESEL_|_ADVANCED_TECHNOLOGY_PACKAGE_|_heated_and_cooled_seats_|_heated_steering_wheel_|-1GKS2JKT2NR111365/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:49:01",
-      "odometer_km": 53000,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "CR-VTouring | sunroof | heated seats | bluetooth | backup camera |",
       "vin": "2HKRW2H92NH208542",
-      "stock": "23044A",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a103dbed04e9.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-Honda-CR--V-Touring_%7C_sunroof_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-2HKRW2H92NH208542/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Honda-CR--V-Touring_%7C_sunroof_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-2HKRW2H92NH208542/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:36",
-      "odometer_km": 114300,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "CR-VTouring | sunroof | heated seats | bluetooth | backup camera |",
       "vin": "2HKRW2H92NH208542",
-      "stock": "23044A",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/029a3eea5eb8.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-Honda-CR--V-Touring_|_sunroof_|_heated_seats_|_bluetooth_|_backup_camera_|-2HKRW2H92NH208542/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Honda-CR--V-Touring_|_sunroof_|_heated_seats_|_bluetooth_|_backup_camera_|-2HKRW2H92NH208542/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:45",
-      "odometer_km": 114300,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "WranglerUnlimited Sport | heated seats | heated steering wheel | NEW Tires |",
       "vin": "1C4HJXDG7NW175611",
-      "stock": "Y1253C",
-      "color": "Sarge Green",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/82f4ab8e3b86.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-Jeep-Wrangler-Unlimited_Sport_%7C_heated_seats_%7C_heated_steering_wheel_%7C_NEW_Tires_%7C-1C4HJXDG7NW175611/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Jeep-Wrangler-Unlimited_Sport_%7C_heated_seats_%7C_heated_steering_wheel_%7C_NEW_Tires_%7C-1C4HJXDG7NW175611/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:29:48",
-      "odometer_km": 86259,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "WranglerUnlimited Sport | heated seats | heated steering wheel | NEW Tires |",
       "vin": "1C4HJXDG7NW175611",
-      "stock": "Y1253C",
-      "color": "Sarge Green",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/824e9aa4e316.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-Jeep-Wrangler-Unlimited_Sport_|_heated_seats_|_heated_steering_wheel_|_NEW_Tires_|-1C4HJXDG7NW175611/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Jeep-Wrangler-Unlimited_Sport_|_heated_seats_|_heated_steering_wheel_|_NEW_Tires_|-1C4HJXDG7NW175611/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:29:57",
-      "odometer_km": 86259,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1500Sport | NEW Tires | heated seats | heated steering wheel |",
       "vin": "1C6SRFVT9NN155541",
-      "stock": "Y1283A",
-      "color": "Ivory Tri-Coat Pearl",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f1da4aaa32a6.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-Ram-1500-Sport_%7C_NEW_Tires_%7C_heated_seats_%7C_heated_steering_wheel_%7C-1C6SRFVT9NN155541/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Ram-1500-Sport_%7C_NEW_Tires_%7C_heated_seats_%7C_heated_steering_wheel_%7C-1C6SRFVT9NN155541/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:30:11",
-      "odometer_km": 71412,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1500Sport | NEW Tires | heated seats | heated steering wheel |",
       "vin": "1C6SRFVT9NN155541",
-      "stock": "Y1283A",
-      "color": "Ivory Tri-Coat Pearl",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/248e2a18cfca.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2022-Ram-1500-Sport_|_NEW_Tires_|_heated_seats_|_heated_steering_wheel_|-1C6SRFVT9NN155541/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2022-Ram-1500-Sport_|_NEW_Tires_|_heated_seats_|_heated_steering_wheel_|-1C6SRFVT9NN155541/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:30:20",
-      "odometer_km": 71412,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500RST | heated seats | heated steering wheel | Z71 OFF-ROAD PACKAGE | bluetooth |",
       "vin": "1GCUDEED8PZ192448",
-      "stock": "23114A",
-      "color": "Sterling Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c5b7b51604ce.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_%7C_heated_seats_%7C_heated_steering_wheel_%7C_Z71_OFF--ROAD_PACKAGE_%7C_bluetooth_%7C-1GCUDEED8PZ192448/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_%7C_heated_seats_%7C_heated_steering_wheel_%7C_Z71_OFF--ROAD_PACKAGE_%7C_bluetooth_%7C-1GCUDEED8PZ192448/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:07:43",
-      "odometer_km": 76533,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500RST | sunroof | heated seats | heated steering wheel | bluetooth |",
       "vin": "2GCUDEED0P1118207",
-      "stock": "23158A",
-      "color": "Sterling Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6ae5de24bcdd.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_%7C_sunroof_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C-2GCUDEED0P1118207/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_%7C_sunroof_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C-2GCUDEED0P1118207/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:58",
-      "odometer_km": 105947,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500RST | heated seats | heated steering wheel | Z71 OFF-ROAD PACKAGE | bluetooth |",
       "vin": "1GCUDEED8PZ192448",
-      "stock": "23114A",
-      "color": "Sterling Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a7285ded162c.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_|_heated_seats_|_heated_steering_wheel_|_Z71_OFF--ROAD_PACKAGE_|_bluetooth_|-1GCUDEED8PZ192448/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_|_heated_seats_|_heated_steering_wheel_|_Z71_OFF--ROAD_PACKAGE_|_bluetooth_|-1GCUDEED8PZ192448/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:07:55",
-      "odometer_km": 76533,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500RST | sunroof | heated seats | heated steering wheel | bluetooth |",
       "vin": "2GCUDEED0P1118207",
-      "stock": "23158A",
-      "color": "Sterling Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/198aa3fdc10e.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_|_sunroof_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|-2GCUDEED0P1118207/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-RST_|_sunroof_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|-2GCUDEED0P1118207/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:07",
-      "odometer_km": 105947,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500ZR2 | sunroof | heated and cooled seats | heated steering wheel | 2 Inch Factory Lift |",
       "vin": "3GCUDHEL6PG128272",
-      "stock": "Y1276A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/85ffa9a2e355.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-ZR2_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_2_Inch_Factory_Lift_%7C-3GCUDHEL6PG128272/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-ZR2_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_2_Inch_Factory_Lift_%7C-3GCUDHEL6PG128272/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:30:31",
-      "odometer_km": 89657,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500ZR2 | sunroof | heated and cooled seats | heated steering wheel | 2 Inch Factory Lift |",
       "vin": "3GCUDHEL6PG128272",
-      "stock": "Y1276A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6dac1b18a0cf.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-ZR2_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|_2_Inch_Factory_Lift_|-3GCUDHEL6PG128272/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Chevrolet-Silverado_1500-ZR2_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|_2_Inch_Factory_Lift_|-3GCUDHEL6PG128272/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:30:40",
-      "odometer_km": 89657,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "BroncoBig Bend | heated seats | bluetooth | remote starter |",
       "vin": "1FMEE5BP6PLB41481",
-      "stock": "23157A",
-      "color": "Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/0a6ac30a0be2.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Ford-Bronco-Big_Bend_%7C_heated_seats_%7C_bluetooth_%7C_remote_starter_%7C-1FMEE5BP6PLB41481/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Ford-Bronco-Big_Bend_%7C_heated_seats_%7C_bluetooth_%7C_remote_starter_%7C-1FMEE5BP6PLB41481/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:49:34",
-      "odometer_km": 32002,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "BroncoBig Bend | heated seats | bluetooth | remote starter |",
       "vin": "1FMEE5BP6PLB41481",
-      "stock": "23157A",
-      "color": "Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/93ab9e318a32.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Ford-Bronco-Big_Bend_|_heated_seats_|_bluetooth_|_remote_starter_|-1FMEE5BP6PLB41481/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Ford-Bronco-Big_Bend_|_heated_seats_|_bluetooth_|_remote_starter_|-1FMEE5BP6PLB41481/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:49:42",
-      "odometer_km": 32002,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500Elevation | heated seats | heated steering wheel | bluetooth | backup camera |",
       "vin": "3GTPUCEK7PG298437",
-      "stock": "Y1292A",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a5f20cb2fc71.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_1500-Elevation_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_backup_camera_%7C-3GTPUCEK7PG298437/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_1500-Elevation_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_backup_camera_%7C-3GTPUCEK7PG298437/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:32:19",
-      "odometer_km": 113138,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500Elevation | heated seats | heated steering wheel | bluetooth | backup camera |",
       "vin": "3GTPUCEK7PG298437",
-      "stock": "Y1292A",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/184eae23a89a.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_1500-Elevation_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_backup_camera_|-3GTPUCEK7PG298437/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_1500-Elevation_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_backup_camera_|-3GTPUCEK7PG298437/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:13:19",
-      "odometer_km": 113138,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500Pro",
       "vin": "1GTRUAEK0PZ284084",
-      "stock": "Y1265B",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/54da76795819.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_1500-Pro-1GTRUAEK0PZ284084/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_1500-Pro-1GTRUAEK0PZ284084/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:30:52",
-      "odometer_km": 96758,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 3500HDSLT | DIESEL | heated and cooled seats | heated steering wheel | upgraded rims and tires |",
       "vin": "1GT49UEY7PF155424",
-      "stock": "22662A",
-      "color": "Cardinal Red",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/05e35efe3549.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_3500HD-SLT_%7C_DIESEL_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_upgraded_rims_and_tires_%7C-1GT49UEY7PF155424/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_3500HD-SLT_%7C_DIESEL_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_upgraded_rims_and_tires_%7C-1GT49UEY7PF155424/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:04",
-      "odometer_km": 112542,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 3500HDSLT | DIESEL | heated and cooled seats | heated steering wheel | upgraded rims and tires |",
       "vin": "1GT49UEY7PF155424",
-      "stock": "22662A",
-      "color": "Cardinal Red",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/e7e7c6e282bb.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_3500HD-SLT_|_DIESEL_|_heated_and_cooled_seats_|_heated_steering_wheel_|_upgraded_rims_and_tires_|-1GT49UEY7PF155424/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-GMC-Sierra_3500HD-SLT_|_DIESEL_|_heated_and_cooled_seats_|_heated_steering_wheel_|_upgraded_rims_and_tires_|-1GT49UEY7PF155424/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:12",
-      "odometer_km": 112542,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "CherokeeTrailhawk | sunroof | heated and cooled seats | heated steering wheel | bluetooth | winter tires |",
       "vin": "1C4PJMBN1PD110831",
-      "stock": "23128B",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/64651ba5370c.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Jeep-Cherokee-Trailhawk_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_winter_tires_%7C-1C4PJMBN1PD110831/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Jeep-Cherokee-Trailhawk_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_winter_tires_%7C-1C4PJMBN1PD110831/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:47:25",
-      "odometer_km": 70983,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "CherokeeTrailhawk | sunroof | heated and cooled seats | heated steering wheel | bluetooth | winter tires |",
       "vin": "1C4PJMBN1PD110831",
-      "stock": "23128B",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/b6b71f176536.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Jeep-Cherokee-Trailhawk_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|_bluetooth_|_winter_tires_|-1C4PJMBN1PD110831/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Jeep-Cherokee-Trailhawk_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|_bluetooth_|_winter_tires_|-1C4PJMBN1PD110831/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:47:32",
-      "odometer_km": 70983,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "FrontierPRO-4X | heated seats | heated steering wheel | bluetooth | NEW Tires |",
       "vin": "1N6ED1EK9PN654046",
-      "stock": "22702B",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/be855a751755.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Frontier-PRO--4X_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_NEW_Tires_%7C-1N6ED1EK9PN654046/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Frontier-PRO--4X_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_NEW_Tires_%7C-1N6ED1EK9PN654046/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:49:54",
-      "odometer_km": 71300,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "FrontierPRO-4X | heated seats | heated steering wheel | bluetooth | NEW Tires |",
       "vin": "1N6ED1EK9PN654046",
-      "stock": "22702B",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/ea98a9ed85b7.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Frontier-PRO--4X_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_NEW_Tires_|-1N6ED1EK9PN654046/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Frontier-PRO--4X_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_NEW_Tires_|-1N6ED1EK9PN654046/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:50:01",
-      "odometer_km": 71300,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "KicksSV | heated seats | heated steering wheel | bluetooth | backup camera |",
       "vin": "3N1CP5CV3PL503163",
-      "stock": "Y1305A",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/207f3178df68.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Kicks-SV_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_backup_camera_%7C-3N1CP5CV3PL503163/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Kicks-SV_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_backup_camera_%7C-3N1CP5CV3PL503163/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:47:42",
-      "odometer_km": 41975,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "KicksSV | heated seats | heated steering wheel | bluetooth | backup camera |",
       "vin": "3N1CP5CV3PL503163",
-      "stock": "Y1305A",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/8fb2e666e93e.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Kicks-SV_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_backup_camera_|-3N1CP5CV3PL503163/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2023-Nissan-Kicks-SV_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_backup_camera_|-3N1CP5CV3PL503163/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:47:50",
-      "odometer_km": 41975,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
-    },
-    {
-      "name": "Silverado 1500LT | heated seats | heated steering wheel | bluetooth |",
-      "vin": "3GCPDDEK1RG330890",
-      "stock": "Y1264A",
-      "color": "Summit White",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/597e865bb323.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-LT_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C-3GCPDDEK1RG330890/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-LT_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C-3GCPDDEK1RG330890/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:31:24",
-      "odometer_km": 44992,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
-    },
-    {
-      "name": "Silverado 1500LT | heated seats | heated steering wheel | bluetooth |",
-      "vin": "3GCPDDEK1RG330890",
-      "stock": "Y1264A",
-      "color": "Summit White",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/8351790d7933.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-LT_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|-3GCPDDEK1RG330890/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-LT_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|-3GCPDDEK1RG330890/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:14:15",
-      "odometer_km": 44992,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500RST | heated seats | heated steering wheel | MAX Trailer Package | bluetooth |",
       "vin": "1GCUDEEL4RZ255443",
-      "stock": "Y1291A",
-      "color": "Sterling Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/87a12f7667e8.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-RST_%7C_heated_seats_%7C_heated_steering_wheel_%7C_MAX_Trailer_Package_%7C_bluetooth_%7C-1GCUDEEL4RZ255443/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-RST_%7C_heated_seats_%7C_heated_steering_wheel_%7C_MAX_Trailer_Package_%7C_bluetooth_%7C-1GCUDEEL4RZ255443/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:14:24",
-      "odometer_km": 100951,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 1500RST | heated seats | heated steering wheel | MAX Trailer Package | bluetooth |",
       "vin": "1GCUDEEL4RZ255443",
-      "stock": "Y1291A",
-      "color": "Sterling Gray Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/b1b865e31532.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-RST_|_heated_seats_|_heated_steering_wheel_|_MAX_Trailer_Package_|_bluetooth_|-1GCUDEEL4RZ255443/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_1500-RST_|_heated_seats_|_heated_steering_wheel_|_MAX_Trailer_Package_|_bluetooth_|-1GCUDEEL4RZ255443/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:14:37",
-      "odometer_km": 100951,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 3500HDLTZ | DIESEL | sunroof | heated and cooled seats | heated steering wheel |",
       "vin": "1GC4YUEY0RF227568",
-      "stock": "23026A",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/fc137efc8f43.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_3500HD-LTZ_%7C_DIESEL_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-1GC4YUEY0RF227568/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_3500HD-LTZ_%7C_DIESEL_%7C_sunroof_%7C_heated_and_cooled_seats_%7C_heated_steering_wheel_%7C-1GC4YUEY0RF227568/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:14:57",
-      "odometer_km": 96849,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Silverado 3500HDLTZ | DIESEL | sunroof | heated and cooled seats | heated steering wheel |",
       "vin": "1GC4YUEY0RF227568",
-      "stock": "23026A",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c495a62fc826.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_3500HD-LTZ_|_DIESEL_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|-1GC4YUEY0RF227568/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Chevrolet-Silverado_3500HD-LTZ_|_DIESEL_|_sunroof_|_heated_and_cooled_seats_|_heated_steering_wheel_|-1GC4YUEY0RF227568/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:15:05",
-      "odometer_km": 96849,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
+    },
+    {
+      "name": "AcadiaAT4",
+      "vin": "1GKENPKS4RJ207470",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/89cc2453afb5.html",
+      "condition": "used"
     },
     {
       "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
       "vin": "1GTUUBED1RZ209365",
-      "stock": "23079A",
-      "color": "Titanium Rush Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a4531d1bd658.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-SLE_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_remote_starter_%7C-1GTUUBED1RZ209365/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-SLE_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_remote_starter_%7C-1GTUUBED1RZ209365/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:13:29",
-      "odometer_km": 60054,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
       "vin": "1GTUUBED1RZ209365",
-      "stock": "23079A",
-      "color": "Titanium Rush Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f5e727cacad0.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-SLE_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_remote_starter_|-1GTUUBED1RZ209365/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_1500-SLE_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_remote_starter_|-1GTUUBED1RZ209365/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:13:37",
-      "odometer_km": 60054,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 3500HDSLE | heated seats | heated steering wheel | PRO SAFETY PLUS PKG | bluetooth |",
       "vin": "1GT49TE75RF188751",
-      "stock": "22947B",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/53dced38eba3.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_%7C_heated_seats_%7C_heated_steering_wheel_%7C_PRO_SAFETY_PLUS_PKG_%7C_bluetooth_%7C-1GT49TE75RF188751/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_%7C_heated_seats_%7C_heated_steering_wheel_%7C_PRO_SAFETY_PLUS_PKG_%7C_bluetooth_%7C-1GT49TE75RF188751/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:50:12",
-      "odometer_km": 49637,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 3500HDSLE | heated seats | heated steering wheel | PRO SAFETY PLUS PKG | bluetooth |",
       "vin": "1GT49TE75RF188751",
-      "stock": "22947B",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/072bf3c61fca.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_|_heated_seats_|_heated_steering_wheel_|_PRO_SAFETY_PLUS_PKG_|_bluetooth_|-1GT49TE75RF188751/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE_|_heated_seats_|_heated_steering_wheel_|_PRO_SAFETY_PLUS_PKG_|_bluetooth_|-1GT49TE75RF188751/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:50:20",
-      "odometer_km": 49637,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "TerrainSLE | heated seats | bluetooth | backup camera |",
       "vin": "3GKALTEG6RL335836",
-      "stock": "Y1301A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/7e15c75bd847.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Terrain-SLE_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-3GKALTEG6RL335836/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Terrain-SLE_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C-3GKALTEG6RL335836/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:13:46",
-      "odometer_km": 76911,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "TerrainSLE | heated seats | bluetooth | backup camera |",
       "vin": "3GKALTEG6RL335836",
-      "stock": "Y1301A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/b52307f1af11.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Terrain-SLE_|_heated_seats_|_bluetooth_|_backup_camera_|-3GKALTEG6RL335836/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-GMC-Terrain-SLE_|_heated_seats_|_bluetooth_|_backup_camera_|-3GKALTEG6RL335836/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:13:55",
-      "odometer_km": 76911,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "RVRES | heated seats | backup camera | bluetooth |",
       "vin": "JA4AJUAU2RU608404",
-      "stock": "Y1302A",
-      "color": "Sterling",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/d068e5b43e16.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Mitsubishi-RVR-ES_%7C_heated_seats_%7C_backup_camera_%7C_bluetooth_%7C-JA4AJUAU2RU608404/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Mitsubishi-RVR-ES_%7C_heated_seats_%7C_backup_camera_%7C_bluetooth_%7C-JA4AJUAU2RU608404/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:48:02",
-      "odometer_km": 65517,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "RVRES | heated seats | backup camera | bluetooth |",
       "vin": "JA4AJUAU2RU608404",
-      "stock": "Y1302A",
-      "color": "Sterling",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/7335be3d951b.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Mitsubishi-RVR-ES_|_heated_seats_|_backup_camera_|_bluetooth_|-JA4AJUAU2RU608404/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Mitsubishi-RVR-ES_|_heated_seats_|_backup_camera_|_bluetooth_|-JA4AJUAU2RU608404/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:48:10",
-      "odometer_km": 65517,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "3500Big Horn | DIESEL | LOW KMS !!!! | heated seats | heated steering wheel |",
       "vin": "3C63RRHL0RG210264",
-      "stock": "23033A",
-      "color": "Granite Crystal Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/14eaca1f90a1.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Ram-3500-Big_Horn_%7C_DIESEL_%7C_LOW_KMS_%21%21%21%21_%7C_heated_seats_%7C_heated_steering_wheel_%7C-3C63RRHL0RG210264/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Ram-3500-Big_Horn_%7C_DIESEL_%7C_LOW_KMS_%21%21%21%21_%7C_heated_seats_%7C_heated_steering_wheel_%7C-3C63RRHL0RG210264/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:50:31",
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "3500Big Horn | DIESEL | LOW KMS !!!! | heated seats | heated steering wheel |",
       "vin": "3C63RRHL0RG210264",
-      "stock": "23033A",
-      "color": "Granite Crystal Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/9dd8bdcb290a.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2024-Ram-3500-Big_Horn_|_DIESEL_|_LOW_KMS_!!!!_|_heated_seats_|_heated_steering_wheel_|-3C63RRHL0RG210264/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2024-Ram-3500-Big_Horn_|_DIESEL_|_LOW_KMS_!!!!_|_heated_seats_|_heated_steering_wheel_|-3C63RRHL0RG210264/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:50:42",
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "EnvisionSport Touring | LOW KMS | sunroof | heated seats |",
       "vin": "LRBFZLE47SD111815",
-      "stock": "Y1297A",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/2203fa0a6c48.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2025-Buick-Envision-Sport_Touring_%7C_LOW_KMS_%7C_sunroof_%7C_heated_seats_%7C-LRBFZLE47SD111815/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2025-Buick-Envision-Sport_Touring_%7C_LOW_KMS_%7C_sunroof_%7C_heated_seats_%7C-LRBFZLE47SD111815/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:15:11",
-      "odometer_km": 2147,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "EnvisionSport Touring | LOW KMS | sunroof | heated seats |",
       "vin": "LRBFZLE47SD111815",
-      "stock": "Y1297A",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/427a117ff430.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2025-Buick-Envision-Sport_Touring_|_LOW_KMS_|_sunroof_|_heated_seats_|-LRBFZLE47SD111815/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2025-Buick-Envision-Sport_Touring_|_LOW_KMS_|_sunroof_|_heated_seats_|-LRBFZLE47SD111815/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T21:15:18",
-      "odometer_km": 2147,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
       "vin": "1GTUUBED7SZ222661",
-      "stock": "Y1293A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/2ff1ce2bf7f2.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2025-GMC-Sierra_1500-SLE_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_remote_starter_%7C-1GTUUBED7SZ222661/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2025-GMC-Sierra_1500-SLE_%7C_heated_seats_%7C_heated_steering_wheel_%7C_bluetooth_%7C_remote_starter_%7C-1GTUUBED7SZ222661/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:08:34",
-      "odometer_km": 31320,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
       "vin": "1GTUUBED7SZ222661",
-      "stock": "Y1293A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/4fca70ad4011.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2025-GMC-Sierra_1500-SLE_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_remote_starter_|-1GTUUBED7SZ222661/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2025-GMC-Sierra_1500-SLE_|_heated_seats_|_heated_steering_wheel_|_bluetooth_|_remote_starter_|-1GTUUBED7SZ222661/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:08:41",
-      "odometer_km": 31320,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1500Rebel | heated steering wheel | heated seats | bluetooth | backup camera | upgraded tires |",
       "vin": "1C6SRFLP6SN586243",
-      "stock": "22833A",
-      "color": "Bright White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c7741a343af2.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2025-Ram-1500-Rebel_%7C_heated_steering_wheel_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C_upgraded_tires_%7C-1C6SRFLP6SN586243/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2025-Ram-1500-Rebel_%7C_heated_steering_wheel_%7C_heated_seats_%7C_bluetooth_%7C_backup_camera_%7C_upgraded_tires_%7C-1C6SRFLP6SN586243/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:09:32",
-      "odometer_km": 41178,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1500Rebel | heated steering wheel | heated seats | bluetooth | backup camera | upgraded tires |",
       "vin": "1C6SRFLP6SN586243",
-      "stock": "22833A",
-      "color": "Bright White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6786c6ef0c62.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2025-Ram-1500-Rebel_|_heated_steering_wheel_|_heated_seats_|_bluetooth_|_backup_camera_|_upgraded_tires_|-1C6SRFLP6SN586243/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2025-Ram-1500-Rebel_|_heated_steering_wheel_|_heated_seats_|_bluetooth_|_backup_camera_|_upgraded_tires_|-1C6SRFLP6SN586243/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:09:40",
-      "odometer_km": 41178,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500Elevation | LOW KMS | heated seats | heated steering wheel |",
       "vin": "3GTUUCED7TG248779",
-      "stock": "Y1267A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/48bd46f2c061.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2026-GMC-Sierra_1500-Elevation_%7C_LOW_KMS_%7C_heated_seats_%7C_heated_steering_wheel_%7C-3GTUUCED7TG248779/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2026-GMC-Sierra_1500-Elevation_%7C_LOW_KMS_%7C_heated_seats_%7C_heated_steering_wheel_%7C-3GTUUCED7TG248779/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:09:53",
-      "odometer_km": 11851,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Sierra 1500Elevation | LOW KMS | heated seats | heated steering wheel |",
       "vin": "3GTUUCED7TG248779",
-      "stock": "Y1267A",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/1bfe03299467.html",
-      "source_url": "https://www.murraygmc.com/inventory/Used-2026-GMC-Sierra_1500-Elevation_|_LOW_KMS_|_heated_seats_|_heated_steering_wheel_|-3GTUUCED7TG248779/",
-      "dealer_url": "https://www.murraygmc.com/inventory/Used-2026-GMC-Sierra_1500-Elevation_|_LOW_KMS_|_heated_seats_|_heated_steering_wheel_|-3GTUUCED7TG248779/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:10:02",
-      "odometer_km": 11851,
-      "condition": "used",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "EnclavePreferred",
       "vin": "5GAEVAKS5TJ351224",
-      "stock": "22881",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e3091e4b7bbc.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Preferred-5GAEVAKS5TJ351224/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Preferred-5GAEVAKS5TJ351224/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:11:08",
-      "odometer_km": 3777,
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnclaveSport Touring",
       "vin": "5GAEVBKSXTJ372057",
-      "stock": "22946",
-      "color": "Stone Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7c9614e67b46.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Sport_Touring-5GAEVBKSXTJ372057/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Enclave-Sport_Touring-5GAEVBKSXTJ372057/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:09:27",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnvisionAvenir",
       "vin": "LRBFZSR46TD111570",
-      "stock": "23074",
-      "color": "Quartz Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/276edfee57d4.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR46TD111570/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR46TD111570/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:09:40",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnvisionSport Touring",
       "vin": "LRBFZPR43TD103133",
-      "stock": "23070",
-      "color": "Quartz Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/892cf28d03b0.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR43TD103133/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR43TD103133/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:09:47",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnvisionSport Touring",
       "vin": "LRBFZPR46TD102784",
-      "stock": "23071",
-      "color": "Quartz Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c6857e01c8eb.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR46TD102784/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR46TD102784/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:09:56",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnvisionSport Touring",
       "vin": "LRBFZPR48TD103712",
-      "stock": "23072",
-      "color": "Moonstone Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0a6a0f920f7c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR48TD103712/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR48TD103712/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:10:06",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnvistaPreferred",
       "vin": "KL47LAE21TB137764",
-      "stock": "22727",
-      "color": "Brilliant Red",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/65703d82dabc.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Preferred-KL47LAE21TB137764/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Preferred-KL47LAE21TB137764/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:10:27",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EnvistaSport Touring",
       "vin": "KL47LBE24TB136971",
-      "stock": "22726",
-      "color": "Brilliant Red",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d973537ba822.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE24TB136971/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE24TB136971/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:10:38",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "BlazerRS",
       "vin": "3GNKBKR45TS197918",
-      "stock": "23088",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/3ed64d523903.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR45TS197918/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR45TS197918/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:10:50",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "BlazerRS",
       "vin": "3GNKBKR48TS160569",
-      "stock": "22880",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6d263a5d6bab.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR48TS160569/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Blazer-RS-3GNKBKR48TS160569/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:10:59",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Colorado4WD Trail Boss",
       "vin": "1GCPTEEK7T1343366",
-      "stock": "7OD5608",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/aece5eec56c6.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK7T1343366/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Trail_Boss-1GCPTEEK7T1343366/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:19:59",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Colorado4WD Z71",
       "vin": "1GCPTDEK0T1119415",
-      "stock": "23038",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6649529608ce.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEK0T1119415/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEK0T1119415/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:56:44",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Colorado4WD Z71",
       "vin": "1GCPTDEK3T1118811",
-      "stock": "23037",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4b2fffab985d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEK3T1118811/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEK3T1118811/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:56:57",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Colorado4WD Z71",
       "vin": "1GCPTDEK5T1316130",
-      "stock": "23095",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/89d4acada67d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEK5T1316130/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEK5T1316130/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:57:09",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Colorado4WD Z71",
       "vin": "1GCPTDEKXT1321744",
-      "stock": "23115",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/431c2b812e1c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEKXT1321744/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Colorado-4WD_Z71-1GCPTDEKXT1321744/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:57:20",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EquinoxAWD LT",
       "vin": "3GNAXPEG9TL486868",
-      "stock": "7OD5606",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/5ef065d04386.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Equinox-AWD_LT-3GNAXPEG9TL486868/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Equinox-AWD_LT-3GNAXPEG9TL486868/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:20:10",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500LT Trail Boss",
       "vin": "3GCUKFE81TG475637",
-      "stock": "7OD5585",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/9add247ecba3.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFE81TG475637/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFE81TG475637/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:57:33",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500LT Trail Boss",
       "vin": "3GCUKFEL4TG424203",
-      "stock": "23000",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d7e48f8cdd88.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFEL4TG424203/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFEL4TG424203/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:57:52",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500LT Trail Boss",
       "vin": "3GCUKFEL7TG386191",
-      "stock": "22999",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/89fef6cc7c72.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFEL7TG386191/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFEL7TG386191/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:58:03",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEE83TG512956",
-      "stock": "23188",
-      "color": "GBA - BLACK",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b469ee8c56af.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEE83TG512956/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEE83TG512956/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:20:23",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEED1TG504416",
-      "stock": "23156",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/33383472f07a.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEED1TG504416/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEED1TG504416/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:58:13",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEED7TG505571",
-      "stock": "23101",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6600286ffcb3.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEED7TG505571/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEED7TG505571/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:58:24",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEEL1TG523796",
-      "stock": "23151",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6d71099d92a4.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL1TG523796/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL1TG523796/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:19:11",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEEL2TG513357",
-      "stock": "23118",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4276fa969a31.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL2TG513357/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL2TG513357/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:20:30",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEEL2TG523841",
-      "stock": "23152",
-      "color": "White Sands",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/fdde58afcff9.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL2TG523841/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL2TG523841/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:19:22",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEEL3TG515795",
-      "stock": "23144",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/42468a921c7a.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL3TG515795/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEEL3TG515795/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:39",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 1500RST",
       "vin": "3GCUKEELXTG515728",
-      "stock": "23143",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/49366dba49b9.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEELXTG515728/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_1500-RST-3GCUKEELXTG515728/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:19:44",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 2500HDLT",
       "vin": "2GC4KNE76T1210478",
-      "stock": "22994",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ae8af184e001.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_2500HD-LT-2GC4KNE76T1210478/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_2500HD-LT-2GC4KNE76T1210478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:08:37",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLT",
       "vin": "1GC4KTEY9TF413564",
-      "stock": "23165",
-      "color": "Cypress Grey",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/80716810c859.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-1GC4KTEY9TF413564/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LT-1GC4KTEY9TF413564/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:11:19",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY0TF370884",
-      "stock": "23089",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6e81ee6db038.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY0TF370884/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY0TF370884/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:19:52",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY2TF424007",
-      "stock": "7OD5607",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/faf29c19bc71.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY2TF424007/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY2TF424007/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:52:21",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY3TF373441",
-      "stock": "23154",
-      "color": "Cypress Grey",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d8b2eb879575.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY3TF373441/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY3TF373441/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:52:54",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY4TF420458",
-      "stock": "7OD5605",
-      "color": "Cypress Grey",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/adf62b5236e2.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY4TF420458/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY4TF420458/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:47",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY7TF370896",
-      "stock": "23053",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/489720dabaa8.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY7TF370896/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY7TF370896/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:03",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY8TF420513",
-      "stock": "7OD5605",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d9a451b99d4d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY8TF420513/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-1GC4KUEY8TF420513/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:20:43",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "2GC4KUEY4T1246625",
-      "stock": "7OD5608",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/97da77988247.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-2GC4KUEY4T1246625/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-2GC4KUEY4T1246625/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:20:55",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
       "vin": "2GC4KUEY6T1246545",
-      "stock": "7OD5607",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a2c1f3da0c74.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-2GC4KUEY6T1246545/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_3500HD-LTZ-2GC4KUEY6T1246545/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:52:31",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TahoeHigh Country",
       "vin": "1GNS6TK82TR416733",
-      "stock": "23013",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e3593d3d8ed5.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Tahoe-High_Country-1GNS6TK82TR416733/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Tahoe-High_Country-1GNS6TK82TR416733/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:11",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TahoePremier",
       "vin": "1GNS6SKD9TR471770",
-      "stock": "23098",
-      "color": "Radiant Red Tintcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c51b41bcbca4.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Tahoe-Premier-1GNS6SKD9TR471770/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Tahoe-Premier-1GNS6SKD9TR471770/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:20",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Trax1RS",
       "vin": "KL77LGE23TC178039",
-      "stock": "22949",
-      "color": "Marina Blue Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f11d985fd93b.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE23TC178039/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE23TC178039/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:28",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Trax1RS",
       "vin": "KL77LGE24TC210366",
-      "stock": "23005",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/eab81bcbf0e1.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE24TC210366/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE24TC210366/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:37",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Trax1RS",
       "vin": "KL77LGE27TC200480",
-      "stock": "22972",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/23825042eb13.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE27TC200480/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-1RS-KL77LGE27TC200480/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:45",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TraxACTIV",
       "vin": "KL77LKE28TC279662",
-      "stock": "23175",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0822216c537d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-ACTIV-KL77LKE28TC279662/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Trax-ACTIV-KL77LKE28TC279662/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:11:32",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "AcadiaAT4",
       "vin": "1GKENPKS7TJ348301",
-      "stock": "22889",
-      "color": "Riverstone Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/387f396ef45c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Acadia-AT4-1GKENPKS7TJ348301/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Acadia-AT4-1GKENPKS7TJ348301/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:53:55",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "AcadiaDenali",
       "vin": "1GKENRKS1TJ347981",
-      "stock": "22888",
-      "color": "Glacier White Tricoat",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e59b1a631b96.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Acadia-Denali-1GKENRKS1TJ347981/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Acadia-Denali-1GKENRKS1TJ347981/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:05",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "CanyonElevation",
       "vin": "1GTP2BEK0T1306080",
-      "stock": "23051",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/de7e6f47083d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK0T1306080/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK0T1306080/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:15",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "CanyonElevation",
       "vin": "1GTP2BEK8T1320664",
-      "stock": "23129",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/11635e084a61.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK8T1320664/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK8T1320664/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:18:02",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500AT4X",
       "vin": "3GTUUFEL6TG239709",
-      "stock": "23036",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7a78489382f7.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL6TG239709/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL6TG239709/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:23",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Denali",
       "vin": "3GTUUGEL9TG425007",
-      "stock": "22997",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/602060ae0184.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGEL9TG425007/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGEL9TG425007/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:30",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Denali",
       "vin": "3GTUUGELXTG213698",
-      "stock": "22658",
-      "color": "Titanium Rush Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/896bffc38fa0.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG213698/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG213698/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:54:56",
-      "odometer_km": 3733,
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Denali",
       "vin": "3GTUUGELXTG424545",
-      "stock": "22998",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/52a880cd7a43.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG424545/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGELXTG424545/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:22:44",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Denali Ultimate",
       "vin": "1GTUUHEL1TZ420888",
-      "stock": "22985",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/52687f3bf57e.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHEL1TZ420888/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHEL1TZ420888/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:22:50",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCE80TZ489926",
-      "stock": "23094",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6c2a9972f47c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCE80TZ489926/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCE80TZ489926/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:22:59",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED0TZ487154",
-      "stock": "23090",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0599fc493fc0.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED0TZ487154/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED0TZ487154/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:23:07",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED3TZ485009",
-      "stock": "23084",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/87b63cf6bc62.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ485009/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ485009/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:23:22",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED3TZ496091",
-      "stock": "23110",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/390fcb97b251.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ496091/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED3TZ496091/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:23:30",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED4TZ481664",
-      "stock": "23063",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/95048984b02d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ481664/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ481664/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:23:38",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED9TZ496290",
-      "stock": "23112",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c1674f53da95.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED9TZ496290/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED9TZ496290/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:18:14",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCEDXTZ493804",
-      "stock": "23105",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/767d4e5fdc80.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ493804/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ493804/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:23:56",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCEDXTZ496024",
-      "stock": "23109",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/83d2e36679de.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ496024/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ496024/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:24:03",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "3GTUUCED2TG463597",
-      "stock": "23042",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/66aff8e24e32.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG463597/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED2TG463597/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:24:11",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "3GTUUCED3TG521118",
-      "stock": "23147",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/990280559ab0.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED3TG521118/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED3TG521118/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:24:19",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "3GTUUCED7TG525608",
-      "stock": "23153",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c4fbc5a1fcc3.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED7TG525608/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED7TG525608/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:24:29",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
       "vin": "3GTUUCEDXTG239204",
-      "stock": "23035",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/479b21a675e9.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCEDXTG239204/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCEDXTG239204/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:28:07",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Pro",
       "vin": "1GTUUAED0TZ478409",
-      "stock": "23066",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f7f597fcfed8.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED0TZ478409/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED0TZ478409/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:28:19",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Pro",
       "vin": "1GTUUAED7TZ488838",
-      "stock": "23092",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/cc0b3bb37e26.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED7TZ488838/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED7TZ488838/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:28:30",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500Pro",
       "vin": "1GTUUAEDXTZ478403",
-      "stock": "23056",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/10b5d807f920.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAEDXTZ478403/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAEDXTZ478403/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:28:45",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 1500SLT",
       "vin": "1GTUUDELXTZ543775",
-      "stock": "7OD5611",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/5756357f1660.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-SLT-1GTUUDELXTZ543775/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_1500-SLT-1GTUUDELXTZ543775/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:55:01",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY1TF392585",
-      "stock": "23132",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/3030ea3943ad.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY1TF392585/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY1TF392585/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:28:59",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY1TF393039",
-      "stock": "23122",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b720ee9dd0ac.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY1TF393039/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY1TF393039/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:29:11",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY3TF392362",
-      "stock": "23134",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c9c7f2956f7a.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY3TF392362/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY3TF392362/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:29:47",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY3TF392569",
-      "stock": "23135",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b7e0fa7bf333.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY3TF392569/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY3TF392569/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:29:58",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY4TF393021",
-      "stock": "23123",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/fa085cf923b2.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY4TF393021/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY4TF393021/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:30:22",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY4TF393116",
-      "stock": "23136",
-      "color": "Coastal Dune",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c41b09a02a8b.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY4TF393116/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY4TF393116/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:52:38",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY5TF390144",
-      "stock": "23106",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/18dca3f0be00.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY5TF390144/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY5TF390144/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:30:46",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY7TF392378",
-      "stock": "23116",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a511f427d8be.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF392378/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF392378/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:58:42",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY7TF393417",
-      "stock": "23124",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c33241fa81b6.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF393417/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF393417/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T04:30:57",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY7TF393434",
-      "stock": "23142",
-      "color": "Titanium Rush Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4851c8a717d5.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF393434/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY7TF393434/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:18:27",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY8TF428515",
-      "stock": "7OD5610",
-      "color": "Coastal Dune",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a7da78cf4bc1.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY8TF428515/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY8TF428515/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:08:47",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDDenali",
       "vin": "1GT4UWEY3TF392478",
-      "stock": "23137",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/389440630b32.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF392478/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY3TF392478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:58:57",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDDenali",
       "vin": "1GT4UWEY5TF393146",
-      "stock": "23138",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0b41368b3927.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY5TF393146/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY5TF393146/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:59:35",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDDenali",
       "vin": "1GT4UWEY8TF382495",
-      "stock": "23086",
-      "color": "Polar White Tricoat",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/8bf379cc98d8.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF382495/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF382495/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:59:46",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "Sierra 3500HDDenali",
       "vin": "1GT4UWEY8TF392993",
-      "stock": "23139",
-      "color": "Onyx Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/cbb51c93b216.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF392993/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY8TF392993/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:59:58",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EquinoxAWD ACTIV",
       "vin": "3GNAXSEG3VL203483",
-      "stock": "7OD5605",
-      "color": "Mosaic Black Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/736e6c47bccd.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_ACTIV-3GNAXSEG3VL203483/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_ACTIV-3GNAXSEG3VL203483/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:21:06",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EquinoxAWD LT",
       "vin": "3GNAXPEG3VL197858",
-      "stock": "23174",
-      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/89585458680b.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG3VL197858/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_LT-3GNAXPEG3VL197858/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:18:36",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "EquinoxAWD RS",
       "vin": "3GNAXTEG1VL237976",
-      "stock": "7OD5606",
-      "color": "Radiant Red Tintcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6700bbf2800f.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG1VL237976/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Equinox-AWD_RS-3GNAXTEG1VL237976/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:21:18",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "SuburbanRST",
       "vin": "1GNS6EK89VR150092",
-      "stock": "7OD5611",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/536cd0de85e6.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Suburban-RST-1GNS6EK89VR150092/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Suburban-RST-1GNS6EK89VR150092/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:52:46",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TraverseLT",
       "vin": "1GNEVGKS4VJ148708",
-      "stock": "23159",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/985561103fc2.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Traverse-LT-1GNEVGKS4VJ148708/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-Chevrolet-Traverse-LT-1GNEVGKS4VJ148708/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:21:30",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "AcadiaAT4",
       "vin": "1GKEMPKS4VJ153021",
-      "stock": "23148",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ff106fe18f64.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-AT4-1GKEMPKS4VJ153021/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-AT4-1GKEMPKS4VJ153021/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:00:25",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "AcadiaDenali",
       "vin": "1GKEMRKS7VJ148911",
-      "stock": "23140",
-      "color": "Ink",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ff50ab9ab0b7.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-Denali-1GKEMRKS7VJ148911/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-Denali-1GKEMRKS7VJ148911/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:00:33",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "AcadiaElevation",
       "vin": "1GKEMNKS4VJ163651",
-      "stock": "23177",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/623167cfe63c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-Elevation-1GKEMNKS4VJ163651/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Acadia-Elevation-1GKEMNKS4VJ163651/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:55:37",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG0VL217143",
-      "stock": "23168",
-      "color": "Volcanic Red Tintcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/49c51c8b201c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG0VL217143/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG0VL217143/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:55:47",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG2VL213840",
-      "stock": "23169",
-      "color": "Riverstone Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a1f3bfb8589d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG2VL213840/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG2VL213840/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:55:57",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG4VL216836",
-      "stock": "7OD5603",
-      "color": "Riverstone Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ef9112ea4b8e.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG4VL216836/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG4VL216836/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:56:09",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG6VL172368",
-      "stock": "23054",
-      "color": "Riverstone Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ae2c4933ce4d.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG6VL172368/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG6VL172368/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:00:45",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG8VL171349",
-      "stock": "23087",
-      "color": "Volcanic Red Tintcoat",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7035cefa6659.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL171349/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL171349/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:00:58",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG8VL216953",
-      "stock": "23171",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b25d606ab19c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL216953/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL216953/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:56:19",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEGXVL169862",
-      "stock": "23146",
-      "color": "Rapids Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/45deb9642236.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL169862/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL169862/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:01:05",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEGXVL170896",
-      "stock": "23130",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7012bfb20f90.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL170896/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL170896/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:01:21",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD Denali",
       "vin": "3GKALZEG5VL215023",
-      "stock": "23172",
-      "color": "Downpour Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4c74e9dcf1e4.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG5VL215023/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG5VL215023/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:18:48",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD Denali",
       "vin": "3GKALZEG8VL217073",
-      "stock": "23173",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/8aa35f6c4304.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG8VL217073/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG8VL217073/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:18:59",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD Elevation",
       "vin": "3GKALUEG2VL156953",
-      "stock": "23046",
-      "color": "Sterling Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/886f6f73357c.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG2VL156953/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG2VL156953/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:01:32",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD Elevation",
       "vin": "3GKALUEG3VL154399",
-      "stock": "23145",
-      "color": "Ebony Twilight Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f5d68df72817.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG3VL154399/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG3VL154399/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:08:57",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD Elevation",
       "vin": "3GKALUEG4VL156971",
-      "stock": "23103",
-      "color": "Riverstone Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/27629c24e842.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG4VL156971/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG4VL156971/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:09:15",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "TerrainAWD Elevation",
       "vin": "3GKALUEGXVL170342",
-      "stock": "7OD5605",
-      "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6964729f22be.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEGXVL170342/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEGXVL170342/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T15:21:40",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "YukonDenali",
       "vin": "1GKS2DKL9VR132263",
-      "stock": "23164",
-      "color": "Downpour Metallic",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/28ab9c56297e.html",
-      "source_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Yukon-Denali-1GKS2DKL9VR132263/",
-      "dealer_url": "https://www.murraygmc.com/inventory/New-2027-GMC-Yukon-Denali-1GKS2DKL9VR132263/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:56:32",
-      "condition": "new",
-      "city": "Fort St. John",
-      "province": "BC"
+      "condition": "new"
     }
   ]
 }
