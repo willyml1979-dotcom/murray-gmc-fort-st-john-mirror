@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-10-26T10:04:46",
-  "vehicle_count": 181,
+  "generated_at": "2026-10-26T10:25:27",
+  "vehicle_count": 176,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -451,12 +451,6 @@
     },
     {
       "name": "Colorado4WD Trail Boss",
-      "vin": "1GCPTEEK7T1332626",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c1a6d9f763ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "Colorado4WD Trail Boss",
       "vin": "1GCPTEEK7T1343366",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/aece5eec56c6.html",
       "condition": "new"
@@ -714,12 +708,6 @@
       "condition": "new"
     },
     {
-      "name": "CanyonElevation",
-      "vin": "1GTP2BEK8T1320664",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/11635e084a61.html",
-      "condition": "new"
-    },
-    {
       "name": "Sierra 1500AT4",
       "vin": "3GTUUEE89TG484607",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4e4c6a150fc8.html",
@@ -765,12 +753,6 @@
       "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED0TZ487154",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/0599fc493fc0.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 1500Elevation",
-      "vin": "1GTUUCED2TZ487057",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/9db473477ec2.html",
       "condition": "new"
     },
     {
@@ -871,18 +853,6 @@
     },
     {
       "name": "Sierra 3500HDAT4",
-      "vin": "1GT4UVEY1TF393039",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b720ee9dd0ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 3500HDAT4",
-      "vin": "1GT4UVEY2TF376377",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/1654e5c720fe.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY3TF392362",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c9c7f2956f7a.html",
       "condition": "new"
@@ -921,12 +891,6 @@
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY7TF393417",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c33241fa81b6.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 3500HDAT4",
-      "vin": "1GT4UVEY7TF393434",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4851c8a717d5.html",
       "condition": "new"
     },
     {
@@ -981,6 +945,12 @@
       "name": "SuburbanRST",
       "vin": "1GNS6EK89VR150092",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/536cd0de85e6.html",
+      "condition": "new"
+    },
+    {
+      "name": "TraverseLT",
+      "vin": "1GNEVGKS4VJ148708",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/985561103fc2.html",
       "condition": "new"
     },
     {
