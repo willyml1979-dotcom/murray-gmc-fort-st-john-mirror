@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-10-26T01:37:21",
-  "vehicle_count": 182,
+  "generated_at": "2026-10-26T02:03:28",
+  "vehicle_count": 181,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -981,12 +981,6 @@
       "name": "SuburbanRST",
       "vin": "1GNS6EK89VR150092",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/536cd0de85e6.html",
-      "condition": "new"
-    },
-    {
-      "name": "TraverseLT",
-      "vin": "1GNEVGKS4VJ148708",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/985561103fc2.html",
       "condition": "new"
     },
     {
