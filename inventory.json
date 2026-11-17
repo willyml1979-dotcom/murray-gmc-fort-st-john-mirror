@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-11-17T13:29:54",
-  "vehicle_count": 190,
+  "generated_at": "2026-11-17T14:26:00",
+  "vehicle_count": 198,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -462,6 +462,12 @@
       "condition": "used"
     },
     {
+      "name": "F-150XLT",
+      "vin": "1FTFW3L83SKE50714",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/81bf4e30bacf.html",
+      "condition": "new"
+    },
+    {
       "name": "EnclavePreferred",
       "vin": "5GAEVAKS5TJ351224",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e3091e4b7bbc.html",
@@ -471,12 +477,6 @@
       "name": "EnclaveSport Touring",
       "vin": "5GAEVBKSXTJ372057",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7c9614e67b46.html",
-      "condition": "new"
-    },
-    {
-      "name": "EnvisionAvenir",
-      "vin": "LRBFZSR46TD111570",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/276edfee57d4.html",
       "condition": "new"
     },
     {
@@ -535,6 +535,12 @@
     },
     {
       "name": "Colorado4WD Trail Boss",
+      "vin": "1GCPTEEK7T1332626",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c1a6d9f763ac.html",
+      "condition": "new"
+    },
+    {
+      "name": "Colorado4WD Trail Boss",
       "vin": "1GCPTEEK7T1343366",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/aece5eec56c6.html",
       "condition": "new"
@@ -543,12 +549,6 @@
       "name": "Colorado4WD Z71",
       "vin": "1GCPTDEK0T1119415",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6649529608ce.html",
-      "condition": "new"
-    },
-    {
-      "name": "Colorado4WD Z71",
-      "vin": "1GCPTDEK3T1118811",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4b2fffab985d.html",
       "condition": "new"
     },
     {
@@ -564,9 +564,9 @@
       "condition": "new"
     },
     {
-      "name": "EquinoxAWD LT",
-      "vin": "3GNAXPEG9TL486868",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/5ef065d04386.html",
+      "name": "Silverado 1500LT",
+      "vin": "1GCUKDED2TZ562643",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/04e9a7888030.html",
       "condition": "new"
     },
     {
@@ -636,18 +636,6 @@
       "condition": "new"
     },
     {
-      "name": "Silverado 1500RST",
-      "vin": "3GCUKEELXTG515728",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/49366dba49b9.html",
-      "condition": "new"
-    },
-    {
-      "name": "Silverado 2500HDLT",
-      "vin": "2GC4KNE76T1210478",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ae8af184e001.html",
-      "condition": "new"
-    },
-    {
       "name": "Silverado 3500HDLT",
       "vin": "1GC4KTEY9TF413564",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/80716810c859.html",
@@ -661,26 +649,20 @@
     },
     {
       "name": "Silverado 3500HDLTZ",
-      "vin": "1GC4KUEY0TF370884",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/6e81ee6db038.html",
-      "condition": "new"
-    },
-    {
-      "name": "Silverado 3500HDLTZ",
       "vin": "1GC4KUEY2TF424007",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/faf29c19bc71.html",
       "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
-      "vin": "1GC4KUEY3TF373441",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d8b2eb879575.html",
+      "vin": "1GC4KUEY4TF420458",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/adf62b5236e2.html",
       "condition": "new"
     },
     {
       "name": "Silverado 3500HDLTZ",
-      "vin": "1GC4KUEY4TF420458",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/adf62b5236e2.html",
+      "vin": "1GC4KUEY6TF431445",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/82c422aa18fb.html",
       "condition": "new"
     },
     {
@@ -708,18 +690,6 @@
       "condition": "new"
     },
     {
-      "name": "TahoeHigh Country",
-      "vin": "1GNS6TK82TR416733",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e3593d3d8ed5.html",
-      "condition": "new"
-    },
-    {
-      "name": "TahoePremier",
-      "vin": "1GNS6SKD9TR471770",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c51b41bcbca4.html",
-      "condition": "new"
-    },
-    {
       "name": "Trax1RS",
       "vin": "KL77LGE23TC178039",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f11d985fd93b.html",
@@ -741,12 +711,6 @@
       "name": "Trax2RS",
       "vin": "KL77LJE27TC302049",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/111d24ef2db1.html",
-      "condition": "new"
-    },
-    {
-      "name": "Trax2RS",
-      "vin": "KL77LJE2XTC301767",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f07f0591d898.html",
       "condition": "new"
     },
     {
@@ -774,12 +738,6 @@
       "condition": "new"
     },
     {
-      "name": "AcadiaAT4",
-      "vin": "1GKENPKS7TJ348301",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/387f396ef45c.html",
-      "condition": "new"
-    },
-    {
       "name": "AcadiaDenali",
       "vin": "1GKENRKS1TJ347981",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e59b1a631b96.html",
@@ -792,15 +750,21 @@
       "condition": "new"
     },
     {
-      "name": "Sierra 1500AT4",
-      "vin": "3GTUUEE89TG484607",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4e4c6a150fc8.html",
+      "name": "CanyonElevation",
+      "vin": "1GTP2BEK8T1320664",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/11635e084a61.html",
       "condition": "new"
     },
     {
-      "name": "Sierra 1500AT4X",
-      "vin": "3GTUUFEL6TG239709",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/7a78489382f7.html",
+      "name": "Sierra 1500AT4",
+      "vin": "1GTUUEE82TZ565321",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/db3b29a1e1ca.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 1500Denali",
+      "vin": "3GTUUGEL9TG233862",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/fe2c1d54bab2.html",
       "condition": "new"
     },
     {
@@ -841,6 +805,12 @@
     },
     {
       "name": "Sierra 1500Elevation",
+      "vin": "1GTUUCED2TZ487057",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/9db473477ec2.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED3TZ485009",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/87b63cf6bc62.html",
       "condition": "new"
@@ -853,32 +823,14 @@
     },
     {
       "name": "Sierra 1500Elevation",
-      "vin": "1GTUUCED4TZ481664",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/95048984b02d.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 1500Elevation",
       "vin": "1GTUUCED9TZ496290",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c1674f53da95.html",
       "condition": "new"
     },
     {
       "name": "Sierra 1500Elevation",
-      "vin": "1GTUUCEDXTZ493804",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/767d4e5fdc80.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 1500Elevation",
       "vin": "1GTUUCEDXTZ496024",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/83d2e36679de.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sierra 1500Elevation",
-      "vin": "3GTUUCED2TG463597",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/66aff8e24e32.html",
       "condition": "new"
     },
     {
@@ -937,6 +889,24 @@
     },
     {
       "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY1TF393039",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b720ee9dd0ac.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY2TF376377",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/1654e5c720fe.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY2TF449523",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/abc1eadbd295.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY3TF392362",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c9c7f2956f7a.html",
       "condition": "new"
@@ -949,14 +919,20 @@
     },
     {
       "name": "Sierra 3500HDAT4",
-      "vin": "1GT4UVEY4TF393021",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/fa085cf923b2.html",
+      "vin": "1GT4UVEY3TF449546",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/499702ae8d02.html",
       "condition": "new"
     },
     {
       "name": "Sierra 3500HDAT4",
       "vin": "1GT4UVEY4TF393116",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c41b09a02a8b.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY4TF449488",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d17a4c74cc4b.html",
       "condition": "new"
     },
     {
@@ -979,8 +955,14 @@
     },
     {
       "name": "Sierra 3500HDAT4",
-      "vin": "1GT4UVEY8TF428515",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a7da78cf4bc1.html",
+      "vin": "1GT4UVEY7TF393434",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4851c8a717d5.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY7TF449470",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/2646134ca3b4.html",
       "condition": "new"
     },
     {
@@ -1008,6 +990,36 @@
       "condition": "new"
     },
     {
+      "name": "Sierra 3500HDDenali Ultimate",
+      "vin": "1GT4UYEY6TF448070",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/2bd206a1a0ba.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDDenali Ultimate",
+      "vin": "1GT4UYEY6TF448120",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/40ad5ef5cd3d.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDDenali Ultimate",
+      "vin": "1GT4UYEYXTF448086",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/06c3e340473c.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDSLE",
+      "vin": "1GT4UTE71TF434877",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e475a359936b.html",
+      "condition": "new"
+    },
+    {
+      "name": "YukonDenali",
+      "vin": "1GKS2DKL9TR370546",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f48f47a4d5a7.html",
+      "condition": "new"
+    },
+    {
       "name": "EquinoxAWD ACTIV",
       "vin": "3GNAXSEG3VL203483",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/736e6c47bccd.html",
@@ -1026,9 +1038,21 @@
       "condition": "new"
     },
     {
+      "name": "Silverado 1500ZR2",
+      "vin": "3GCUKHEN4VG111331",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/45688683b7fa.html",
+      "condition": "new"
+    },
+    {
       "name": "SuburbanRST",
       "vin": "1GNS6EK89VR150092",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/536cd0de85e6.html",
+      "condition": "new"
+    },
+    {
+      "name": "TahoeZ71",
+      "vin": "1GNS6PK80VR145259",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/30e0f390b3a0.html",
       "condition": "new"
     },
     {
@@ -1056,6 +1080,18 @@
       "condition": "new"
     },
     {
+      "name": "Sierra 1500AT4",
+      "vin": "3GTUUPEM4VG105847",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/65047f3cc796.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 1500Elevation",
+      "vin": "3GTUUKEM2VG105624",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d65030da9657.html",
+      "condition": "new"
+    },
+    {
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG0VL217143",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/49c51c8b201c.html",
@@ -1065,6 +1101,12 @@
       "name": "TerrainAWD AT4",
       "vin": "3GKALYEG2VL213840",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/a1f3bfb8589d.html",
+      "condition": "new"
+    },
+    {
+      "name": "TerrainAWD AT4",
+      "vin": "3GKALYEG4VL167248",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/c208b6880fec.html",
       "condition": "new"
     },
     {
@@ -1123,12 +1165,6 @@
     },
     {
       "name": "TerrainAWD Elevation",
-      "vin": "3GKALUEG3VL154399",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f5d68df72817.html",
-      "condition": "new"
-    },
-    {
-      "name": "TerrainAWD Elevation",
       "vin": "3GKALUEG4VL156971",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/27629c24e842.html",
       "condition": "new"
@@ -1143,6 +1179,18 @@
       "name": "YukonDenali",
       "vin": "1GKS2DKL9VR132263",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/28ab9c56297e.html",
+      "condition": "new"
+    },
+    {
+      "name": "Yukon XLElevation",
+      "vin": "1GKS2GK81VR158028",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/728862b3cb86.html",
+      "condition": "new"
+    },
+    {
+      "name": "Yukon XLElevation",
+      "vin": "1GKS2GK8XVR168198",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/b29fedc81bac.html",
       "condition": "new"
     }
   ]
