@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-10-26T10:25:27",
-  "vehicle_count": 176,
+  "generated_at": "2026-11-17T13:29:54",
+  "vehicle_count": 190,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -18,6 +18,18 @@
       "condition": "used"
     },
     {
+      "name": "Super Duty F-350Lariat | DIESEL | Lift Kit | heated and cooled seats |",
+      "vin": "1FT8X3BT7HEE88319",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/dedea1dd7aec.html",
+      "condition": "used"
+    },
+    {
+      "name": "Super Duty F-350Lariat | DIESEL | Lift Kit | heated and cooled seats |",
+      "vin": "1FT8X3BT7HEE88319",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6a42b176b91e.html",
+      "condition": "used"
+    },
+    {
       "name": "1500SLT | LOW KMS |",
       "vin": "3C6RR7KT6HG769470",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/79187682d8e6.html",
@@ -30,15 +42,21 @@
       "condition": "used"
     },
     {
-      "name": "EdgeTitanium | sunroof | heated and cooled seats | heated steering wheel |",
-      "vin": "2FMPK4K91KBB82526",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/8f6ec9adfcb3.html",
+      "name": "Silverado 1500Work Truck",
+      "vin": "1GCUKNEC9JF220831",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/cf65c57eef07.html",
       "condition": "used"
     },
     {
-      "name": "EdgeTitanium | sunroof | heated and cooled seats | heated steering wheel |",
-      "vin": "2FMPK4K91KBB82526",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a53322f5e760.html",
+      "name": "EscapeSE | LOW KMS |  New Tires | heated seats | backup camera | Bluetooth |",
+      "vin": "1FMCU9GD7JUA01019",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/2943cbc81ff1.html",
+      "condition": "used"
+    },
+    {
+      "name": "EscapeSE | LOW KMS |  New Tires | heated seats | backup camera | Bluetooth |",
+      "vin": "1FMCU9GD7JUA01019",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/652ed6efce21.html",
       "condition": "used"
     },
     {
@@ -54,18 +72,6 @@
       "condition": "used"
     },
     {
-      "name": "RogueSV | heated seats | bluetooth | backup camera |",
-      "vin": "5N1AT2MV2KC738831",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/882d9e25f102.html",
-      "condition": "used"
-    },
-    {
-      "name": "RogueSV | heated seats | bluetooth | backup camera |",
-      "vin": "5N1AT2MV2KC738831",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/0b0bdfb9a222.html",
-      "condition": "used"
-    },
-    {
       "name": "F-150XLT | bluetooth | backup camera | XTR Package |",
       "vin": "1FTEW1EP7MFB83349",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/629dfae12ed2.html",
@@ -75,6 +81,18 @@
       "name": "F-150XLT | bluetooth | backup camera | XTR Package |",
       "vin": "1FTEW1EP7MFB83349",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/812f39057687.html",
+      "condition": "used"
+    },
+    {
+      "name": "Grand CherokeeAltitude | heated seats | heated steering wheel | bluetooth | backup camera |",
+      "vin": "1C4RJFAG8MC859456",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/626a92488b54.html",
+      "condition": "used"
+    },
+    {
+      "name": "Grand CherokeeAltitude | heated seats | heated steering wheel | bluetooth | backup camera |",
+      "vin": "1C4RJFAG8MC859456",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/fa6402eac1f0.html",
       "condition": "used"
     },
     {
@@ -90,6 +108,30 @@
       "condition": "used"
     },
     {
+      "name": "EnvisionAvenir | LOW KMS | sunroof | heated seats | heated steering wheel | TECHNOLOGY PACKAGE |",
+      "vin": "LRBFZSR42ND145010",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/308414d82a0e.html",
+      "condition": "used"
+    },
+    {
+      "name": "EnvisionAvenir | LOW KMS | sunroof | heated seats | heated steering wheel | TECHNOLOGY PACKAGE |",
+      "vin": "LRBFZSR42ND145010",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/cce9b7a015da.html",
+      "condition": "used"
+    },
+    {
+      "name": "Silverado 1500Custom Trail Boss | 2 Inch Factory Lift | bluetooth | Safety Package | remote starter |",
+      "vin": "3GCPDCED8NG657146",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/b635e422970a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Silverado 1500Custom Trail Boss | 2 Inch Factory Lift | bluetooth | Safety Package | remote starter |",
+      "vin": "3GCPDCED8NG657146",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a18cadd0bd70.html",
+      "condition": "used"
+    },
+    {
       "name": "CR-VTouring | sunroof | heated seats | bluetooth | backup camera |",
       "vin": "2HKRW2H92NH208542",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a103dbed04e9.html",
@@ -102,6 +144,24 @@
       "condition": "used"
     },
     {
+      "name": "KonaEssential",
+      "vin": "KM8K1CAB4NU799624",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/5a3142847378.html",
+      "condition": "used"
+    },
+    {
+      "name": "TucsonPreferred | heated seats | heated steering wheel | bluetooth | backup camera |",
+      "vin": "KM8JBCAE2NU159317",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/4788d519047e.html",
+      "condition": "used"
+    },
+    {
+      "name": "TucsonPreferred | heated seats | heated steering wheel | bluetooth | backup camera |",
+      "vin": "KM8JBCAE2NU159317",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a157c414d925.html",
+      "condition": "used"
+    },
+    {
       "name": "WranglerUnlimited Sport | heated seats | heated steering wheel | NEW Tires |",
       "vin": "1C4HJXDG7NW175611",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/82f4ab8e3b86.html",
@@ -111,18 +171,6 @@
       "name": "WranglerUnlimited Sport | heated seats | heated steering wheel | NEW Tires |",
       "vin": "1C4HJXDG7NW175611",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/824e9aa4e316.html",
-      "condition": "used"
-    },
-    {
-      "name": "1500Sport | NEW Tires | heated seats | heated steering wheel |",
-      "vin": "1C6SRFVT9NN155541",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f1da4aaa32a6.html",
-      "condition": "used"
-    },
-    {
-      "name": "1500Sport | NEW Tires | heated seats | heated steering wheel |",
-      "vin": "1C6SRFVT9NN155541",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/248e2a18cfca.html",
       "condition": "used"
     },
     {
@@ -147,18 +195,6 @@
       "name": "Silverado 1500RST | sunroof | heated seats | heated steering wheel | bluetooth |",
       "vin": "2GCUDEED0P1118207",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/198aa3fdc10e.html",
-      "condition": "used"
-    },
-    {
-      "name": "Silverado 1500ZR2 | sunroof | heated and cooled seats | heated steering wheel | 2 Inch Factory Lift |",
-      "vin": "3GCUDHEL6PG128272",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/85ffa9a2e355.html",
-      "condition": "used"
-    },
-    {
-      "name": "Silverado 1500ZR2 | sunroof | heated and cooled seats | heated steering wheel | 2 Inch Factory Lift |",
-      "vin": "3GCUDHEL6PG128272",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6dac1b18a0cf.html",
       "condition": "used"
     },
     {
@@ -204,6 +240,30 @@
       "condition": "used"
     },
     {
+      "name": "TerrainSLE | heated seats | remote starter | bluetooth | backup camera |",
+      "vin": "3GKALTEG7PL238870",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/28e40f85eb42.html",
+      "condition": "used"
+    },
+    {
+      "name": "TerrainSLE | heated seats | remote starter | bluetooth | backup camera |",
+      "vin": "3GKALTEG9PL230317",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/9f584037cb46.html",
+      "condition": "used"
+    },
+    {
+      "name": "TerrainSLE | heated seats | remote starter | bluetooth | backup camera |",
+      "vin": "3GKALTEG7PL238870",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6fd05acc8560.html",
+      "condition": "used"
+    },
+    {
+      "name": "TerrainSLE | heated seats | remote starter | bluetooth | backup camera |",
+      "vin": "3GKALTEG9PL230317",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a533c44aaca9.html",
+      "condition": "used"
+    },
+    {
       "name": "CherokeeTrailhawk | sunroof | heated and cooled seats | heated steering wheel | bluetooth | winter tires |",
       "vin": "1C4PJMBN1PD110831",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/64651ba5370c.html",
@@ -216,15 +276,9 @@
       "condition": "used"
     },
     {
-      "name": "FrontierPRO-4X | heated seats | heated steering wheel | bluetooth | NEW Tires |",
-      "vin": "1N6ED1EK9PN654046",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/be855a751755.html",
-      "condition": "used"
-    },
-    {
-      "name": "FrontierPRO-4X | heated seats | heated steering wheel | bluetooth | NEW Tires |",
-      "vin": "1N6ED1EK9PN654046",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/ea98a9ed85b7.html",
+      "name": "NautilusReserve",
+      "vin": "2LMPJ8KP3PBL24332",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a4212efb5cc4.html",
       "condition": "used"
     },
     {
@@ -237,6 +291,18 @@
       "name": "KicksSV | heated seats | heated steering wheel | bluetooth | backup camera |",
       "vin": "3N1CP5CV3PL503163",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/8fb2e666e93e.html",
+      "condition": "used"
+    },
+    {
+      "name": "EquinoxLT | heated seats | bluetooth | backup camera |",
+      "vin": "3GNAXUEG2RS201196",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6a1e9967371b.html",
+      "condition": "used"
+    },
+    {
+      "name": "EquinoxLT | heated seats | bluetooth | backup camera |",
+      "vin": "3GNAXUEG2RS201196",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/d3eb2b8b7f93.html",
       "condition": "used"
     },
     {
@@ -264,21 +330,27 @@
       "condition": "used"
     },
     {
-      "name": "AcadiaAT4",
+      "name": "AcadiaAT4 | sunroof | heated and cooled seats | heated steering wheel | LUXURY PACKAGE | bluetooth |",
       "vin": "1GKENPKS4RJ207470",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/89cc2453afb5.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/100ca188266c.html",
       "condition": "used"
     },
     {
-      "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
-      "vin": "1GTUUBED1RZ209365",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a4531d1bd658.html",
+      "name": "AcadiaAT4 | sunroof | heated and cooled seats | heated steering wheel | LUXURY PACKAGE | bluetooth |",
+      "vin": "1GKENPKS4RJ207470",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/185f41b20852.html",
       "condition": "used"
     },
     {
-      "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
+      "name": "Sierra 1500SLE | NEW Tires | heated seats | heated steering wheel | bluetooth | remote starter |",
       "vin": "1GTUUBED1RZ209365",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f5e727cacad0.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/82e331c31905.html",
+      "condition": "used"
+    },
+    {
+      "name": "Sierra 1500SLE | NEW Tires | heated seats | heated steering wheel | bluetooth | remote starter |",
+      "vin": "1GTUUBED1RZ209365",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/62578ea97143.html",
       "condition": "used"
     },
     {
@@ -318,18 +390,6 @@
       "condition": "used"
     },
     {
-      "name": "3500Big Horn | DIESEL | LOW KMS !!!! | heated seats | heated steering wheel |",
-      "vin": "3C63RRHL0RG210264",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/14eaca1f90a1.html",
-      "condition": "used"
-    },
-    {
-      "name": "3500Big Horn | DIESEL | LOW KMS !!!! | heated seats | heated steering wheel |",
-      "vin": "3C63RRHL0RG210264",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/9dd8bdcb290a.html",
-      "condition": "used"
-    },
-    {
       "name": "EnvisionSport Touring | LOW KMS | sunroof | heated seats |",
       "vin": "LRBFZLE47SD111815",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/2203fa0a6c48.html",
@@ -339,6 +399,30 @@
       "name": "EnvisionSport Touring | LOW KMS | sunroof | heated seats |",
       "vin": "LRBFZLE47SD111815",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/427a117ff430.html",
+      "condition": "used"
+    },
+    {
+      "name": "BlazerLT | heated seats | remote starter | bluetooth | SPORT EDITION |",
+      "vin": "3GNKBHRS0SS163336",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c223807f77a2.html",
+      "condition": "used"
+    },
+    {
+      "name": "BlazerLT | heated seats | remote starter | bluetooth | SPORT EDITION |",
+      "vin": "3GNKBHRS0SS163336",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/3c79fd51822d.html",
+      "condition": "used"
+    },
+    {
+      "name": "TrailblazerLT | heated seats | heated steering wheel | backup camera | bluetooth |",
+      "vin": "KL79MRSL0SB176400",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/f779c7bd71df.html",
+      "condition": "used"
+    },
+    {
+      "name": "TrailblazerLT | heated seats | heated steering wheel | backup camera | bluetooth |",
+      "vin": "KL79MRSL0SB176400",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/e646ade3254d.html",
       "condition": "used"
     },
     {
