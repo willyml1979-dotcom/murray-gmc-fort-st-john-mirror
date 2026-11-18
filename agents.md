@@ -7,7 +7,7 @@ Murray GMC Fort St. John is a  dealership in Fort St. John. This site is an AI-r
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/ and https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ (about 198 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/ and https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/ (about 186 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/llms.txt

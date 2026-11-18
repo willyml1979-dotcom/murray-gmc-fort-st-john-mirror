@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-11-17T14:26:00",
-  "vehicle_count": 198,
+  "generated_at": "2026-11-18T03:10:44",
+  "vehicle_count": 186,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -180,21 +180,9 @@
       "condition": "used"
     },
     {
-      "name": "Silverado 1500RST | sunroof | heated seats | heated steering wheel | bluetooth |",
-      "vin": "2GCUDEED0P1118207",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6ae5de24bcdd.html",
-      "condition": "used"
-    },
-    {
       "name": "Silverado 1500RST | heated seats | heated steering wheel | Z71 OFF-ROAD PACKAGE | bluetooth |",
       "vin": "1GCUDEED8PZ192448",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a7285ded162c.html",
-      "condition": "used"
-    },
-    {
-      "name": "Silverado 1500RST | sunroof | heated seats | heated steering wheel | bluetooth |",
-      "vin": "2GCUDEED0P1118207",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/198aa3fdc10e.html",
       "condition": "used"
     },
     {
@@ -207,18 +195,6 @@
       "name": "BroncoBig Bend | heated seats | bluetooth | remote starter |",
       "vin": "1FMEE5BP6PLB41481",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/93ab9e318a32.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500Elevation | heated seats | heated steering wheel | bluetooth | backup camera |",
-      "vin": "3GTPUCEK7PG298437",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/a5f20cb2fc71.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500Elevation | heated seats | heated steering wheel | bluetooth | backup camera |",
-      "vin": "3GTPUCEK7PG298437",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/184eae23a89a.html",
       "condition": "used"
     },
     {
@@ -294,18 +270,6 @@
       "condition": "used"
     },
     {
-      "name": "EquinoxLT | heated seats | bluetooth | backup camera |",
-      "vin": "3GNAXUEG2RS201196",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6a1e9967371b.html",
-      "condition": "used"
-    },
-    {
-      "name": "EquinoxLT | heated seats | bluetooth | backup camera |",
-      "vin": "3GNAXUEG2RS201196",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/d3eb2b8b7f93.html",
-      "condition": "used"
-    },
-    {
       "name": "Silverado 1500RST | heated seats | heated steering wheel | MAX Trailer Package | bluetooth |",
       "vin": "1GCUDEEL4RZ255443",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/87a12f7667e8.html",
@@ -378,18 +342,6 @@
       "condition": "used"
     },
     {
-      "name": "RVRES | heated seats | backup camera | bluetooth |",
-      "vin": "JA4AJUAU2RU608404",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/d068e5b43e16.html",
-      "condition": "used"
-    },
-    {
-      "name": "RVRES | heated seats | backup camera | bluetooth |",
-      "vin": "JA4AJUAU2RU608404",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/7335be3d951b.html",
-      "condition": "used"
-    },
-    {
       "name": "EnvisionSport Touring | LOW KMS | sunroof | heated seats |",
       "vin": "LRBFZLE47SD111815",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/2203fa0a6c48.html",
@@ -435,30 +387,6 @@
       "name": "Sierra 1500SLE | heated seats | heated steering wheel | bluetooth | remote starter |",
       "vin": "1GTUUBED7SZ222661",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/4fca70ad4011.html",
-      "condition": "used"
-    },
-    {
-      "name": "1500Rebel | heated steering wheel | heated seats | bluetooth | backup camera | upgraded tires |",
-      "vin": "1C6SRFLP6SN586243",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c7741a343af2.html",
-      "condition": "used"
-    },
-    {
-      "name": "1500Rebel | heated steering wheel | heated seats | bluetooth | backup camera | upgraded tires |",
-      "vin": "1C6SRFLP6SN586243",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/6786c6ef0c62.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500Elevation | LOW KMS | heated seats | heated steering wheel |",
-      "vin": "3GTUUCED7TG248779",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/48bd46f2c061.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500Elevation | LOW KMS | heated seats | heated steering wheel |",
-      "vin": "3GTUUCED7TG248779",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/1bfe03299467.html",
       "condition": "used"
     },
     {
