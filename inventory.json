@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-11-18T03:10:44",
-  "vehicle_count": 186,
+  "generated_at": "2026-11-18T03:45:23",
+  "vehicle_count": 190,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -481,6 +481,12 @@
     },
     {
       "name": "Colorado4WD Z71",
+      "vin": "1GCPTDEK3T1118811",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/4b2fffab985d.html",
+      "condition": "new"
+    },
+    {
+      "name": "Colorado4WD Z71",
       "vin": "1GCPTDEK5T1316130",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/89d4acada67d.html",
       "condition": "new"
@@ -489,12 +495,6 @@
       "name": "Colorado4WD Z71",
       "vin": "1GCPTDEKXT1321744",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/431c2b812e1c.html",
-      "condition": "new"
-    },
-    {
-      "name": "Silverado 1500LT",
-      "vin": "1GCUKDED2TZ562643",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/04e9a7888030.html",
       "condition": "new"
     },
     {
@@ -507,12 +507,6 @@
       "name": "Silverado 1500LT Trail Boss",
       "vin": "3GCUKFEL4TG424203",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/d7e48f8cdd88.html",
-      "condition": "new"
-    },
-    {
-      "name": "Silverado 1500LT Trail Boss",
-      "vin": "3GCUKFEL7TG386191",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/89fef6cc7c72.html",
       "condition": "new"
     },
     {
@@ -618,6 +612,12 @@
       "condition": "new"
     },
     {
+      "name": "Silverado 3500HDLTZ",
+      "vin": "2GC4KUEY9T1252548",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/315d697b8617.html",
+      "condition": "new"
+    },
+    {
       "name": "Trax1RS",
       "vin": "KL77LGE23TC178039",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f11d985fd93b.html",
@@ -639,6 +639,12 @@
       "name": "Trax2RS",
       "vin": "KL77LJE27TC302049",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/111d24ef2db1.html",
+      "condition": "new"
+    },
+    {
+      "name": "Trax2RS",
+      "vin": "KL77LJE2XTC301767",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/f07f0591d898.html",
       "condition": "new"
     },
     {
@@ -894,6 +900,12 @@
       "condition": "new"
     },
     {
+      "name": "Sierra 3500HDAT4",
+      "vin": "1GT4UVEY7TF449517",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/07c332652a4c.html",
+      "condition": "new"
+    },
+    {
       "name": "Sierra 3500HDDenali",
       "vin": "1GT4UWEY3TF392478",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/389440630b32.html",
@@ -939,6 +951,18 @@
       "name": "Sierra 3500HDSLE",
       "vin": "1GT4UTE71TF434877",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e475a359936b.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDSLE",
+      "vin": "1GT4UTE79TF442452",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/e8d833055388.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sierra 3500HDSLE",
+      "vin": "1GT4UTE7XTF442220",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/new/962a0299e8c9.html",
       "condition": "new"
     },
     {

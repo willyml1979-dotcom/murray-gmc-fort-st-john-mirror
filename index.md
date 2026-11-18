@@ -1,6 +1,6 @@
 # Murray GMC Fort St. John
 
- dealership in Fort St. John. AI-readable inventory mirror, about 186 vehicles.
+ dealership in Fort St. John. AI-readable inventory mirror, about 190 vehicles.
 
 - Official website: https://www.murraygmc.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/
