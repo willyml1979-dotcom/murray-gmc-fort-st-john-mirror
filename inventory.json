@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-11-18T03:45:23",
-  "vehicle_count": 190,
+  "generated_at": "2026-11-18T11:47:56",
+  "vehicle_count": 188,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -303,18 +303,6 @@
       "name": "AcadiaAT4 | sunroof | heated and cooled seats | heated steering wheel | LUXURY PACKAGE | bluetooth |",
       "vin": "1GKENPKS4RJ207470",
       "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/185f41b20852.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500SLE | NEW Tires | heated seats | heated steering wheel | bluetooth | remote starter |",
-      "vin": "1GTUUBED1RZ209365",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/82e331c31905.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500SLE | NEW Tires | heated seats | heated steering wheel | bluetooth | remote starter |",
-      "vin": "1GTUUBED1RZ209365",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/62578ea97143.html",
       "condition": "used"
     },
     {
