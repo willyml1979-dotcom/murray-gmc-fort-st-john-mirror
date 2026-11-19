@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Gmc Fort St John",
-  "generated_at": "2026-11-18T12:21:39",
-  "vehicle_count": 188,
+  "generated_at": "2026-11-18T22:21:08",
+  "vehicle_count": 189,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -144,9 +144,15 @@
       "condition": "used"
     },
     {
-      "name": "KonaEssential",
+      "name": "KonaEssential | heated seats | backup camera | bluetooth |",
       "vin": "KM8K1CAB4NU799624",
-      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/5a3142847378.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/c799427ddb0e.html",
+      "condition": "used"
+    },
+    {
+      "name": "KonaEssential | heated seats | backup camera | bluetooth |",
+      "vin": "KM8K1CAB4NU799624",
+      "url": "https://willyml1979-dotcom.github.io/murray-gmc-fort-st-john-mirror/used/5f7c5d9cf12b.html",
       "condition": "used"
     },
     {
